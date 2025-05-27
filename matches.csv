@@ -1,0 +1,101 @@
+id,date,team1,team2,winner,player_of_match
+1,13/05/2017,Delhi Capitals,Punjab Kings,Punjab Kings,MS Dhoni
+2,26/05/2017,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,R Sharma
+3,03/05/2017,Sunrisers Hyderabad,Kolkata Knight Riders,Rajasthan Royals,MS Dhoni
+4,19/04/2017,Mumbai Indians,Sunrisers Hyderabad,Royal Challengers Bangalore,AB de Villiers
+5,17/05/2017,Delhi Capitals,Kolkata Knight Riders,Mumbai Indians,V Kohli
+6,12/04/2017,Rajasthan Royals,Rajasthan Royals,Punjab Kings,B Stokes
+7,25/04/2017,Kolkata Knight Riders,Punjab Kings,Delhi Capitals,V Kohli
+8,13/05/2017,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,V Kohli
+9,01/06/2017,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,B Stokes
+10,23/04/2017,Chennai Super Kings,Delhi Capitals,Sunrisers Hyderabad,R Sharma
+11,27/04/2017,Punjab Kings,Sunrisers Hyderabad,Chennai Super Kings,AB de Villiers
+12,15/04/2017,Kolkata Knight Riders,Chennai Super Kings,Delhi Capitals,MS Dhoni
+13,15/04/2017,Rajasthan Royals,Chennai Super Kings,Delhi Capitals,KL Rahul
+14,28/04/2017,Chennai Super Kings,Kolkata Knight Riders,Royal Challengers Bangalore,MS Dhoni
+15,27/05/2017,Mumbai Indians,Delhi Capitals,Punjab Kings,KL Rahul
+16,10/05/2017,Sunrisers Hyderabad,Mumbai Indians,Rajasthan Royals,MS Dhoni
+17,14/05/2017,Sunrisers Hyderabad,Kolkata Knight Riders,Rajasthan Royals,B Stokes
+18,28/04/2017,Sunrisers Hyderabad,Delhi Capitals,Mumbai Indians,AB de Villiers
+19,07/04/2017,Kolkata Knight Riders,Sunrisers Hyderabad,Mumbai Indians,KL Rahul
+20,26/04/2017,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,R Sharma
+21,27/05/2017,Kolkata Knight Riders,Sunrisers Hyderabad,Royal Challengers Bangalore,MS Dhoni
+22,06/04/2017,Punjab Kings,Sunrisers Hyderabad,Delhi Capitals,MS Dhoni
+23,28/04/2017,Kolkata Knight Riders,Sunrisers Hyderabad,Rajasthan Royals,KL Rahul
+24,18/05/2017,Mumbai Indians,Delhi Capitals,Kolkata Knight Riders,R Sharma
+25,04/05/2017,Mumbai Indians,Delhi Capitals,Royal Challengers Bangalore,R Sharma
+26,12/05/2017,Punjab Kings,Royal Challengers Bangalore,Sunrisers Hyderabad,B Stokes
+27,06/04/2017,Mumbai Indians,Rajasthan Royals,Sunrisers Hyderabad,B Stokes
+28,03/06/2017,Rajasthan Royals,Chennai Super Kings,Royal Challengers Bangalore,B Stokes
+29,25/04/2017,Mumbai Indians,Punjab Kings,Sunrisers Hyderabad,B Stokes
+30,07/05/2017,Sunrisers Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,B Stokes
+31,16/04/2017,Rajasthan Royals,Mumbai Indians,Chennai Super Kings,B Stokes
+32,01/06/2017,Rajasthan Royals,Punjab Kings,Royal Challengers Bangalore,AB de Villiers
+33,26/04/2017,Punjab Kings,Delhi Capitals,Punjab Kings,R Sharma
+34,18/05/2017,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,B Stokes
+35,29/04/2017,Royal Challengers Bangalore,Mumbai Indians,Sunrisers Hyderabad,R Sharma
+36,23/05/2017,Mumbai Indians,Mumbai Indians,Rajasthan Royals,R Sharma
+37,01/05/2017,Rajasthan Royals,Royal Challengers Bangalore,Punjab Kings,V Kohli
+38,02/06/2017,Royal Challengers Bangalore,Delhi Capitals,Sunrisers Hyderabad,AB de Villiers
+39,16/05/2017,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,B Stokes
+40,02/05/2017,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,MS Dhoni
+41,03/06/2017,Royal Challengers Bangalore,Kolkata Knight Riders,Rajasthan Royals,KL Rahul
+42,20/04/2017,Kolkata Knight Riders,Mumbai Indians,Rajasthan Royals,MS Dhoni
+43,19/04/2017,Chennai Super Kings,Royal Challengers Bangalore,Punjab Kings,AB de Villiers
+44,21/05/2017,Punjab Kings,Punjab Kings,Chennai Super Kings,KL Rahul
+45,25/05/2017,Chennai Super Kings,Delhi Capitals,Rajasthan Royals,AB de Villiers
+46,18/05/2017,Mumbai Indians,Rajasthan Royals,Mumbai Indians,R Sharma
+47,29/05/2017,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,KL Rahul
+48,26/05/2017,Punjab Kings,Mumbai Indians,Sunrisers Hyderabad,R Sharma
+49,31/05/2017,Mumbai Indians,Delhi Capitals,Mumbai Indians,MS Dhoni
+50,07/04/2017,Rajasthan Royals,Kolkata Knight Riders,Mumbai Indians,MS Dhoni
+51,11/05/2017,Sunrisers Hyderabad,Mumbai Indians,Chennai Super Kings,KL Rahul
+52,25/05/2017,Chennai Super Kings,Royal Challengers Bangalore,Punjab Kings,KL Rahul
+53,11/04/2017,Mumbai Indians,Chennai Super Kings,Punjab Kings,B Stokes
+54,25/04/2017,Rajasthan Royals,Sunrisers Hyderabad,Delhi Capitals,AB de Villiers
+55,13/04/2017,Punjab Kings,Rajasthan Royals,Chennai Super Kings,B Stokes
+56,13/05/2017,Punjab Kings,Punjab Kings,Royal Challengers Bangalore,AB de Villiers
+57,22/04/2017,Delhi Capitals,Royal Challengers Bangalore,Punjab Kings,B Stokes
+58,08/04/2017,Rajasthan Royals,Delhi Capitals,Sunrisers Hyderabad,R Sharma
+59,29/04/2017,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,KL Rahul
+60,03/06/2017,Royal Challengers Bangalore,Rajasthan Royals,Chennai Super Kings,MS Dhoni
+61,18/04/2017,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,AB de Villiers
+62,24/05/2017,Rajasthan Royals,Mumbai Indians,Mumbai Indians,AB de Villiers
+63,01/06/2017,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,MS Dhoni
+64,13/04/2017,Royal Challengers Bangalore,Mumbai Indians,Sunrisers Hyderabad,B Stokes
+65,30/04/2017,Royal Challengers Bangalore,Delhi Capitals,Mumbai Indians,AB de Villiers
+66,27/05/2017,Mumbai Indians,Mumbai Indians,Chennai Super Kings,R Sharma
+67,06/04/2017,Royal Challengers Bangalore,Chennai Super Kings,Mumbai Indians,KL Rahul
+68,24/04/2017,Kolkata Knight Riders,Sunrisers Hyderabad,Rajasthan Royals,MS Dhoni
+69,02/05/2017,Punjab Kings,Sunrisers Hyderabad,Delhi Capitals,KL Rahul
+70,21/05/2017,Delhi Capitals,Delhi Capitals,Sunrisers Hyderabad,AB de Villiers
+71,03/06/2017,Royal Challengers Bangalore,Punjab Kings,Kolkata Knight Riders,AB de Villiers
+72,11/04/2017,Mumbai Indians,Chennai Super Kings,Kolkata Knight Riders,MS Dhoni
+73,18/05/2017,Kolkata Knight Riders,Royal Challengers Bangalore,Rajasthan Royals,R Sharma
+74,12/04/2017,Chennai Super Kings,Mumbai Indians,Royal Challengers Bangalore,V Kohli
+75,21/05/2017,Punjab Kings,Kolkata Knight Riders,Punjab Kings,MS Dhoni
+76,09/05/2017,Punjab Kings,Mumbai Indians,Mumbai Indians,V Kohli
+77,18/04/2017,Delhi Capitals,Rajasthan Royals,Mumbai Indians,B Stokes
+78,21/04/2017,Punjab Kings,Mumbai Indians,Royal Challengers Bangalore,V Kohli
+79,10/05/2017,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,R Sharma
+80,24/05/2017,Mumbai Indians,Mumbai Indians,Rajasthan Royals,B Stokes
+81,14/05/2017,Punjab Kings,Chennai Super Kings,Rajasthan Royals,V Kohli
+82,08/04/2017,Punjab Kings,Chennai Super Kings,Royal Challengers Bangalore,B Stokes
+83,06/04/2017,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,V Kohli
+84,10/04/2017,Chennai Super Kings,Delhi Capitals,Rajasthan Royals,R Sharma
+85,28/05/2017,Sunrisers Hyderabad,Punjab Kings,Delhi Capitals,V Kohli
+86,16/05/2017,Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals,V Kohli
+87,08/04/2017,Royal Challengers Bangalore,Rajasthan Royals,Mumbai Indians,V Kohli
+88,28/05/2017,Punjab Kings,Mumbai Indians,Rajasthan Royals,MS Dhoni
+89,03/05/2017,Rajasthan Royals,Mumbai Indians,Sunrisers Hyderabad,MS Dhoni
+90,22/04/2017,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni
+91,30/04/2017,Mumbai Indians,Delhi Capitals,Mumbai Indians,R Sharma
+92,18/05/2017,Sunrisers Hyderabad,Chennai Super Kings,Rajasthan Royals,B Stokes
+93,08/05/2017,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,AB de Villiers
+94,14/04/2017,Rajasthan Royals,Sunrisers Hyderabad,Delhi Capitals,V Kohli
+95,10/05/2017,Sunrisers Hyderabad,Chennai Super Kings,Rajasthan Royals,V Kohli
+96,18/04/2017,Delhi Capitals,Rajasthan Royals,Sunrisers Hyderabad,R Sharma
+97,05/05/2017,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,V Kohli
+98,22/05/2017,Punjab Kings,Rajasthan Royals,Royal Challengers Bangalore,MS Dhoni
+99,19/04/2017,Punjab Kings,Punjab Kings,Rajasthan Royals,AB de Villiers
+100,12/04/2017,Kolkata Knight Riders,Sunrisers Hyderabad,Delhi Capitals,KL Rahul

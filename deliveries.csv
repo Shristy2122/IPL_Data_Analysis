@@ -1,0 +1,1001 @@
+match_id,inning,over,ball,batsman,bowler,total_runs,batsman_runs,dismissal_kind,batting_team,bowling_team
+1,2,7,1,KL Rahul,B Kumar,3,0,,Delhi Capitals,Rajasthan Royals
+1,2,12,3,KL Rahul,JJ Bumrah,1,6,,Royal Challengers Bangalore,Mumbai Indians
+1,2,17,4,V Kohli,JJ Bumrah,6,5,,Kolkata Knight Riders,Mumbai Indians
+1,2,12,4,AB de Villiers,R Ashwin,3,5,,Sunrisers Hyderabad,Delhi Capitals
+1,1,3,4,AB de Villiers,JJ Bumrah,3,1,,Mumbai Indians,Rajasthan Royals
+1,1,19,4,V Kohli,R Ashwin,1,4,,Delhi Capitals,Punjab Kings
+1,1,9,4,AB de Villiers,B Kumar,1,1,,Chennai Super Kings,Rajasthan Royals
+1,2,16,1,AB de Villiers,B Kumar,0,4,,Punjab Kings,Kolkata Knight Riders
+1,2,3,4,V Kohli,Y Chahal,2,4,,Kolkata Knight Riders,Delhi Capitals
+1,2,5,1,B Stokes,JJ Bumrah,5,3,,Rajasthan Royals,Chennai Super Kings
+2,2,16,5,KL Rahul,B Kumar,5,5,,Chennai Super Kings,Chennai Super Kings
+2,2,5,4,V Kohli,Y Chahal,6,1,,Chennai Super Kings,Rajasthan Royals
+2,1,5,5,KL Rahul,Y Chahal,6,1,,Rajasthan Royals,Rajasthan Royals
+2,1,20,4,V Kohli,R Ashwin,3,0,,Royal Challengers Bangalore,Royal Challengers Bangalore
+2,1,12,3,MS Dhoni,B Kumar,1,2,,Kolkata Knight Riders,Sunrisers Hyderabad
+2,1,14,2,AB de Villiers,R Ashwin,1,2,,Chennai Super Kings,Rajasthan Royals
+2,1,10,2,B Stokes,JJ Bumrah,2,0,,Chennai Super Kings,Kolkata Knight Riders
+2,2,13,3,AB de Villiers,Y Chahal,3,0,bowled,Mumbai Indians,Sunrisers Hyderabad
+2,2,5,1,R Sharma,B Kumar,2,3,,Punjab Kings,Rajasthan Royals
+2,2,5,4,MS Dhoni,R Ashwin,4,6,,Mumbai Indians,Delhi Capitals
+3,1,17,6,KL Rahul,Y Chahal,0,5,,Royal Challengers Bangalore,Mumbai Indians
+3,2,12,5,MS Dhoni,R Ashwin,3,0,,Delhi Capitals,Punjab Kings
+3,2,20,3,V Kohli,R Ashwin,4,4,,Mumbai Indians,Sunrisers Hyderabad
+3,1,4,5,MS Dhoni,R Ashwin,4,4,,Punjab Kings,Delhi Capitals
+3,1,5,3,AB de Villiers,R Ashwin,2,1,lbw,Mumbai Indians,Chennai Super Kings
+3,2,12,1,AB de Villiers,JJ Bumrah,6,5,,Chennai Super Kings,Mumbai Indians
+3,2,2,5,AB de Villiers,B Kumar,5,2,,Kolkata Knight Riders,Mumbai Indians
+3,2,20,1,MS Dhoni,B Kumar,3,3,,Punjab Kings,Royal Challengers Bangalore
+3,1,12,6,R Sharma,JJ Bumrah,1,2,,Royal Challengers Bangalore,Kolkata Knight Riders
+3,1,18,4,B Stokes,JJ Bumrah,3,3,,Punjab Kings,Mumbai Indians
+4,1,1,3,AB de Villiers,Y Chahal,5,0,,Mumbai Indians,Mumbai Indians
+4,2,1,6,AB de Villiers,JJ Bumrah,1,3,lbw,Kolkata Knight Riders,Kolkata Knight Riders
+4,1,16,6,AB de Villiers,R Ashwin,3,4,,Royal Challengers Bangalore,Sunrisers Hyderabad
+4,1,18,1,MS Dhoni,JJ Bumrah,6,6,lbw,Delhi Capitals,Delhi Capitals
+4,1,16,1,R Sharma,Y Chahal,1,5,,Sunrisers Hyderabad,Kolkata Knight Riders
+4,2,4,2,V Kohli,Y Chahal,1,3,,Mumbai Indians,Sunrisers Hyderabad
+4,2,17,1,MS Dhoni,B Kumar,3,4,,Kolkata Knight Riders,Kolkata Knight Riders
+4,2,3,5,B Stokes,JJ Bumrah,2,4,,Chennai Super Kings,Chennai Super Kings
+4,2,18,3,AB de Villiers,B Kumar,6,0,,Chennai Super Kings,Rajasthan Royals
+4,1,17,3,AB de Villiers,JJ Bumrah,6,0,lbw,Royal Challengers Bangalore,Mumbai Indians
+5,1,1,2,MS Dhoni,R Ashwin,6,0,,Punjab Kings,Delhi Capitals
+5,2,17,5,AB de Villiers,JJ Bumrah,2,4,,Kolkata Knight Riders,Kolkata Knight Riders
+5,2,10,3,MS Dhoni,B Kumar,5,0,,Royal Challengers Bangalore,Kolkata Knight Riders
+5,1,4,6,MS Dhoni,B Kumar,1,3,,Punjab Kings,Chennai Super Kings
+5,2,2,6,B Stokes,R Ashwin,2,1,bowled,Delhi Capitals,Sunrisers Hyderabad
+5,1,17,5,AB de Villiers,JJ Bumrah,1,2,,Delhi Capitals,Rajasthan Royals
+5,2,2,6,V Kohli,JJ Bumrah,1,5,,Royal Challengers Bangalore,Punjab Kings
+5,2,20,1,B Stokes,B Kumar,6,3,,Chennai Super Kings,Royal Challengers Bangalore
+5,1,5,5,KL Rahul,JJ Bumrah,0,1,,Sunrisers Hyderabad,Rajasthan Royals
+5,1,2,6,AB de Villiers,JJ Bumrah,4,5,,Rajasthan Royals,Royal Challengers Bangalore
+6,1,15,1,R Sharma,JJ Bumrah,3,3,,Royal Challengers Bangalore,Rajasthan Royals
+6,1,18,5,V Kohli,R Ashwin,2,4,,Sunrisers Hyderabad,Chennai Super Kings
+6,1,6,1,AB de Villiers,B Kumar,3,1,bowled,Mumbai Indians,Delhi Capitals
+6,2,13,3,MS Dhoni,JJ Bumrah,0,6,,Punjab Kings,Rajasthan Royals
+6,2,11,5,MS Dhoni,JJ Bumrah,3,0,,Royal Challengers Bangalore,Kolkata Knight Riders
+6,2,15,6,B Stokes,JJ Bumrah,3,6,,Chennai Super Kings,Kolkata Knight Riders
+6,2,14,3,R Sharma,R Ashwin,2,6,bowled,Royal Challengers Bangalore,Punjab Kings
+6,2,13,2,V Kohli,JJ Bumrah,2,2,,Mumbai Indians,Punjab Kings
+6,1,10,1,MS Dhoni,R Ashwin,5,1,,Mumbai Indians,Mumbai Indians
+6,1,20,1,KL Rahul,JJ Bumrah,2,0,,Punjab Kings,Sunrisers Hyderabad
+7,1,2,1,KL Rahul,R Ashwin,1,0,,Sunrisers Hyderabad,Chennai Super Kings
+7,2,2,3,R Sharma,B Kumar,5,4,caught,Kolkata Knight Riders,Delhi Capitals
+7,1,6,6,KL Rahul,JJ Bumrah,2,5,,Punjab Kings,Rajasthan Royals
+7,1,9,3,R Sharma,R Ashwin,4,3,lbw,Delhi Capitals,Chennai Super Kings
+7,2,11,4,B Stokes,JJ Bumrah,0,5,,Royal Challengers Bangalore,Delhi Capitals
+7,1,2,3,V Kohli,R Ashwin,4,3,,Chennai Super Kings,Delhi Capitals
+7,2,19,4,MS Dhoni,Y Chahal,0,3,,Chennai Super Kings,Delhi Capitals
+7,2,6,5,B Stokes,R Ashwin,6,3,,Royal Challengers Bangalore,Mumbai Indians
+7,2,18,2,AB de Villiers,R Ashwin,1,3,,Rajasthan Royals,Chennai Super Kings
+7,2,1,5,MS Dhoni,B Kumar,0,2,,Delhi Capitals,Punjab Kings
+8,1,17,5,B Stokes,Y Chahal,3,1,,Rajasthan Royals,Royal Challengers Bangalore
+8,1,2,4,R Sharma,R Ashwin,0,5,,Kolkata Knight Riders,Rajasthan Royals
+8,1,9,5,B Stokes,Y Chahal,5,2,,Kolkata Knight Riders,Royal Challengers Bangalore
+8,1,14,2,B Stokes,Y Chahal,0,4,,Chennai Super Kings,Rajasthan Royals
+8,2,7,6,R Sharma,B Kumar,5,0,,Punjab Kings,Mumbai Indians
+8,1,17,1,V Kohli,JJ Bumrah,4,2,,Delhi Capitals,Delhi Capitals
+8,1,7,3,V Kohli,Y Chahal,3,6,bowled,Mumbai Indians,Sunrisers Hyderabad
+8,2,7,3,KL Rahul,B Kumar,5,0,,Kolkata Knight Riders,Royal Challengers Bangalore
+8,1,1,6,KL Rahul,JJ Bumrah,1,1,,Chennai Super Kings,Mumbai Indians
+8,2,6,5,KL Rahul,B Kumar,3,6,,Kolkata Knight Riders,Kolkata Knight Riders
+9,1,4,4,AB de Villiers,JJ Bumrah,2,6,,Sunrisers Hyderabad,Sunrisers Hyderabad
+9,2,11,3,AB de Villiers,Y Chahal,2,5,caught,Delhi Capitals,Delhi Capitals
+9,2,15,2,B Stokes,R Ashwin,3,1,,Delhi Capitals,Chennai Super Kings
+9,1,1,4,R Sharma,Y Chahal,3,3,caught,Kolkata Knight Riders,Rajasthan Royals
+9,1,8,2,MS Dhoni,Y Chahal,6,1,,Royal Challengers Bangalore,Kolkata Knight Riders
+9,2,8,1,B Stokes,R Ashwin,6,0,,Kolkata Knight Riders,Chennai Super Kings
+9,2,4,6,MS Dhoni,B Kumar,6,5,,Rajasthan Royals,Punjab Kings
+9,1,15,1,AB de Villiers,B Kumar,1,3,,Chennai Super Kings,Mumbai Indians
+9,1,20,1,V Kohli,R Ashwin,5,1,,Royal Challengers Bangalore,Chennai Super Kings
+9,1,17,3,R Sharma,Y Chahal,2,2,,Mumbai Indians,Punjab Kings
+10,2,6,5,MS Dhoni,B Kumar,4,6,,Chennai Super Kings,Sunrisers Hyderabad
+10,2,17,1,KL Rahul,B Kumar,0,3,,Sunrisers Hyderabad,Punjab Kings
+10,1,8,1,MS Dhoni,Y Chahal,4,5,,Royal Challengers Bangalore,Rajasthan Royals
+10,1,17,5,AB de Villiers,JJ Bumrah,2,1,,Royal Challengers Bangalore,Punjab Kings
+10,2,2,6,KL Rahul,B Kumar,1,5,,Punjab Kings,Sunrisers Hyderabad
+10,1,8,5,R Sharma,Y Chahal,1,1,bowled,Chennai Super Kings,Sunrisers Hyderabad
+10,1,18,5,MS Dhoni,B Kumar,6,2,,Royal Challengers Bangalore,Punjab Kings
+10,1,8,6,MS Dhoni,R Ashwin,4,2,bowled,Sunrisers Hyderabad,Punjab Kings
+10,2,2,3,B Stokes,Y Chahal,5,2,lbw,Sunrisers Hyderabad,Kolkata Knight Riders
+10,2,14,2,V Kohli,R Ashwin,0,6,bowled,Rajasthan Royals,Kolkata Knight Riders
+11,1,4,5,KL Rahul,JJ Bumrah,1,0,bowled,Sunrisers Hyderabad,Royal Challengers Bangalore
+11,2,2,3,KL Rahul,Y Chahal,4,4,,Delhi Capitals,Mumbai Indians
+11,2,12,3,KL Rahul,JJ Bumrah,5,3,,Chennai Super Kings,Delhi Capitals
+11,2,14,1,V Kohli,R Ashwin,0,5,,Chennai Super Kings,Kolkata Knight Riders
+11,1,7,1,B Stokes,JJ Bumrah,2,5,lbw,Chennai Super Kings,Kolkata Knight Riders
+11,1,2,5,R Sharma,JJ Bumrah,1,4,bowled,Mumbai Indians,Delhi Capitals
+11,2,17,5,MS Dhoni,JJ Bumrah,1,3,,Chennai Super Kings,Delhi Capitals
+11,1,6,3,V Kohli,Y Chahal,4,0,,Chennai Super Kings,Kolkata Knight Riders
+11,1,14,2,KL Rahul,JJ Bumrah,2,0,,Sunrisers Hyderabad,Royal Challengers Bangalore
+11,2,11,3,KL Rahul,B Kumar,2,6,,Delhi Capitals,Chennai Super Kings
+12,1,15,6,B Stokes,B Kumar,0,1,,Sunrisers Hyderabad,Royal Challengers Bangalore
+12,1,20,3,MS Dhoni,JJ Bumrah,2,4,,Mumbai Indians,Chennai Super Kings
+12,2,9,1,MS Dhoni,B Kumar,0,4,,Chennai Super Kings,Mumbai Indians
+12,1,3,3,V Kohli,B Kumar,3,3,lbw,Delhi Capitals,Chennai Super Kings
+12,2,19,5,KL Rahul,R Ashwin,2,0,,Chennai Super Kings,Mumbai Indians
+12,1,17,4,B Stokes,Y Chahal,2,6,bowled,Punjab Kings,Kolkata Knight Riders
+12,2,16,6,MS Dhoni,JJ Bumrah,0,3,,Chennai Super Kings,Mumbai Indians
+12,1,15,2,MS Dhoni,R Ashwin,1,4,,Punjab Kings,Delhi Capitals
+12,1,7,1,R Sharma,Y Chahal,1,2,caught,Chennai Super Kings,Punjab Kings
+12,2,20,3,V Kohli,R Ashwin,1,6,,Punjab Kings,Rajasthan Royals
+13,1,12,4,AB de Villiers,JJ Bumrah,2,4,,Chennai Super Kings,Punjab Kings
+13,1,12,1,KL Rahul,B Kumar,5,0,,Mumbai Indians,Rajasthan Royals
+13,1,10,4,B Stokes,JJ Bumrah,6,2,bowled,Delhi Capitals,Royal Challengers Bangalore
+13,1,13,5,V Kohli,Y Chahal,2,2,lbw,Sunrisers Hyderabad,Kolkata Knight Riders
+13,2,17,5,B Stokes,B Kumar,3,0,,Sunrisers Hyderabad,Punjab Kings
+13,1,10,6,MS Dhoni,R Ashwin,6,3,,Delhi Capitals,Mumbai Indians
+13,1,13,6,B Stokes,JJ Bumrah,3,1,,Mumbai Indians,Rajasthan Royals
+13,1,14,1,MS Dhoni,B Kumar,3,3,lbw,Kolkata Knight Riders,Kolkata Knight Riders
+13,1,11,4,B Stokes,R Ashwin,6,5,,Delhi Capitals,Kolkata Knight Riders
+13,2,7,4,KL Rahul,R Ashwin,3,4,,Kolkata Knight Riders,Royal Challengers Bangalore
+14,1,14,2,R Sharma,JJ Bumrah,0,1,,Chennai Super Kings,Royal Challengers Bangalore
+14,2,6,5,AB de Villiers,JJ Bumrah,6,6,bowled,Royal Challengers Bangalore,Sunrisers Hyderabad
+14,2,17,5,R Sharma,JJ Bumrah,2,1,,Mumbai Indians,Rajasthan Royals
+14,1,3,6,AB de Villiers,Y Chahal,4,6,,Sunrisers Hyderabad,Delhi Capitals
+14,1,2,3,MS Dhoni,Y Chahal,2,2,,Mumbai Indians,Royal Challengers Bangalore
+14,1,2,4,V Kohli,B Kumar,6,0,,Royal Challengers Bangalore,Chennai Super Kings
+14,2,15,6,R Sharma,B Kumar,1,1,,Sunrisers Hyderabad,Rajasthan Royals
+14,1,5,5,MS Dhoni,JJ Bumrah,4,5,,Chennai Super Kings,Royal Challengers Bangalore
+14,2,8,2,R Sharma,B Kumar,4,0,bowled,Royal Challengers Bangalore,Rajasthan Royals
+14,2,1,3,R Sharma,Y Chahal,0,4,bowled,Mumbai Indians,Kolkata Knight Riders
+15,2,4,3,B Stokes,Y Chahal,6,4,bowled,Chennai Super Kings,Mumbai Indians
+15,1,10,2,R Sharma,B Kumar,5,6,,Sunrisers Hyderabad,Chennai Super Kings
+15,2,13,5,KL Rahul,R Ashwin,1,4,,Mumbai Indians,Mumbai Indians
+15,1,8,2,KL Rahul,Y Chahal,4,2,,Royal Challengers Bangalore,Delhi Capitals
+15,1,10,1,V Kohli,R Ashwin,3,3,,Kolkata Knight Riders,Kolkata Knight Riders
+15,2,4,4,KL Rahul,JJ Bumrah,3,2,,Sunrisers Hyderabad,Delhi Capitals
+15,1,10,6,MS Dhoni,JJ Bumrah,1,2,bowled,Delhi Capitals,Rajasthan Royals
+15,1,12,4,R Sharma,R Ashwin,3,4,,Kolkata Knight Riders,Royal Challengers Bangalore
+15,1,6,3,R Sharma,JJ Bumrah,6,1,,Chennai Super Kings,Kolkata Knight Riders
+15,2,17,3,AB de Villiers,B Kumar,6,6,,Kolkata Knight Riders,Royal Challengers Bangalore
+16,2,2,6,KL Rahul,JJ Bumrah,2,2,bowled,Delhi Capitals,Sunrisers Hyderabad
+16,2,15,5,R Sharma,Y Chahal,5,2,,Royal Challengers Bangalore,Royal Challengers Bangalore
+16,1,6,2,AB de Villiers,R Ashwin,0,0,,Chennai Super Kings,Punjab Kings
+16,2,16,3,KL Rahul,JJ Bumrah,0,0,,Rajasthan Royals,Punjab Kings
+16,1,14,2,KL Rahul,R Ashwin,2,4,,Kolkata Knight Riders,Rajasthan Royals
+16,2,3,4,B Stokes,R Ashwin,0,5,,Mumbai Indians,Delhi Capitals
+16,2,20,4,MS Dhoni,JJ Bumrah,0,3,,Delhi Capitals,Kolkata Knight Riders
+16,1,2,3,AB de Villiers,B Kumar,4,1,,Chennai Super Kings,Delhi Capitals
+16,1,6,3,AB de Villiers,B Kumar,0,3,,Rajasthan Royals,Royal Challengers Bangalore
+16,2,19,1,MS Dhoni,Y Chahal,0,5,,Rajasthan Royals,Delhi Capitals
+17,2,20,1,V Kohli,Y Chahal,1,3,,Mumbai Indians,Mumbai Indians
+17,1,13,6,MS Dhoni,B Kumar,3,1,,Chennai Super Kings,Delhi Capitals
+17,1,14,2,V Kohli,R Ashwin,1,1,,Mumbai Indians,Rajasthan Royals
+17,1,3,3,B Stokes,B Kumar,5,0,,Rajasthan Royals,Mumbai Indians
+17,2,12,2,KL Rahul,JJ Bumrah,3,5,,Punjab Kings,Punjab Kings
+17,1,20,4,B Stokes,JJ Bumrah,5,1,,Punjab Kings,Mumbai Indians
+17,2,10,6,R Sharma,JJ Bumrah,5,3,,Kolkata Knight Riders,Mumbai Indians
+17,1,19,2,R Sharma,R Ashwin,5,3,,Kolkata Knight Riders,Punjab Kings
+17,1,19,4,V Kohli,JJ Bumrah,1,2,,Rajasthan Royals,Rajasthan Royals
+17,1,3,4,V Kohli,R Ashwin,2,4,,Punjab Kings,Punjab Kings
+18,1,7,4,MS Dhoni,JJ Bumrah,4,6,,Rajasthan Royals,Sunrisers Hyderabad
+18,1,4,4,KL Rahul,JJ Bumrah,3,3,,Mumbai Indians,Royal Challengers Bangalore
+18,2,9,4,V Kohli,B Kumar,1,3,bowled,Chennai Super Kings,Sunrisers Hyderabad
+18,2,7,2,R Sharma,R Ashwin,1,5,,Royal Challengers Bangalore,Kolkata Knight Riders
+18,2,8,5,MS Dhoni,R Ashwin,1,3,caught,Punjab Kings,Chennai Super Kings
+18,2,14,6,V Kohli,R Ashwin,4,4,,Mumbai Indians,Delhi Capitals
+18,2,15,6,MS Dhoni,Y Chahal,1,6,,Royal Challengers Bangalore,Mumbai Indians
+18,1,2,3,AB de Villiers,B Kumar,6,0,,Rajasthan Royals,Sunrisers Hyderabad
+18,1,15,3,V Kohli,R Ashwin,5,5,,Kolkata Knight Riders,Chennai Super Kings
+18,2,9,1,AB de Villiers,Y Chahal,2,3,,Rajasthan Royals,Delhi Capitals
+19,2,11,5,AB de Villiers,Y Chahal,4,0,bowled,Sunrisers Hyderabad,Rajasthan Royals
+19,2,15,6,KL Rahul,R Ashwin,4,3,,Chennai Super Kings,Mumbai Indians
+19,1,5,4,V Kohli,B Kumar,0,6,,Kolkata Knight Riders,Kolkata Knight Riders
+19,1,5,1,MS Dhoni,R Ashwin,5,3,,Kolkata Knight Riders,Chennai Super Kings
+19,2,11,6,V Kohli,B Kumar,1,4,bowled,Punjab Kings,Rajasthan Royals
+19,1,11,2,KL Rahul,JJ Bumrah,3,6,,Kolkata Knight Riders,Sunrisers Hyderabad
+19,2,18,2,KL Rahul,R Ashwin,1,4,,Rajasthan Royals,Kolkata Knight Riders
+19,2,6,5,B Stokes,R Ashwin,1,0,bowled,Chennai Super Kings,Royal Challengers Bangalore
+19,2,18,2,MS Dhoni,JJ Bumrah,6,0,,Rajasthan Royals,Mumbai Indians
+19,2,4,1,MS Dhoni,R Ashwin,6,5,,Kolkata Knight Riders,Mumbai Indians
+20,2,2,2,B Stokes,R Ashwin,0,0,,Rajasthan Royals,Kolkata Knight Riders
+20,1,13,1,R Sharma,Y Chahal,1,4,,Sunrisers Hyderabad,Delhi Capitals
+20,1,6,2,V Kohli,B Kumar,0,6,,Royal Challengers Bangalore,Mumbai Indians
+20,2,7,1,AB de Villiers,R Ashwin,0,3,,Punjab Kings,Kolkata Knight Riders
+20,1,1,1,MS Dhoni,R Ashwin,3,5,,Royal Challengers Bangalore,Rajasthan Royals
+20,2,14,2,V Kohli,JJ Bumrah,0,2,,Rajasthan Royals,Rajasthan Royals
+20,2,6,4,AB de Villiers,B Kumar,1,0,,Chennai Super Kings,Rajasthan Royals
+20,1,15,4,KL Rahul,R Ashwin,2,6,bowled,Chennai Super Kings,Sunrisers Hyderabad
+20,1,11,5,AB de Villiers,R Ashwin,2,6,bowled,Kolkata Knight Riders,Sunrisers Hyderabad
+20,1,4,3,R Sharma,R Ashwin,3,4,,Royal Challengers Bangalore,Chennai Super Kings
+21,2,4,5,KL Rahul,JJ Bumrah,2,4,bowled,Royal Challengers Bangalore,Rajasthan Royals
+21,2,10,4,B Stokes,JJ Bumrah,1,0,lbw,Chennai Super Kings,Mumbai Indians
+21,2,11,4,V Kohli,R Ashwin,4,6,,Rajasthan Royals,Mumbai Indians
+21,2,10,4,KL Rahul,Y Chahal,5,6,bowled,Sunrisers Hyderabad,Rajasthan Royals
+21,1,10,3,AB de Villiers,R Ashwin,5,5,,Sunrisers Hyderabad,Mumbai Indians
+21,2,9,2,V Kohli,B Kumar,4,1,caught,Rajasthan Royals,Mumbai Indians
+21,2,5,4,V Kohli,Y Chahal,2,3,,Chennai Super Kings,Mumbai Indians
+21,2,19,4,V Kohli,B Kumar,6,1,,Mumbai Indians,Royal Challengers Bangalore
+21,2,2,1,AB de Villiers,B Kumar,5,4,,Sunrisers Hyderabad,Punjab Kings
+21,2,11,2,MS Dhoni,JJ Bumrah,4,4,,Mumbai Indians,Chennai Super Kings
+22,2,3,5,V Kohli,R Ashwin,1,5,,Mumbai Indians,Mumbai Indians
+22,1,7,4,B Stokes,R Ashwin,3,1,,Rajasthan Royals,Punjab Kings
+22,1,14,4,AB de Villiers,B Kumar,3,2,,Mumbai Indians,Royal Challengers Bangalore
+22,2,9,4,AB de Villiers,B Kumar,3,1,,Sunrisers Hyderabad,Royal Challengers Bangalore
+22,2,8,6,V Kohli,R Ashwin,5,3,,Royal Challengers Bangalore,Delhi Capitals
+22,2,2,4,V Kohli,JJ Bumrah,0,2,,Delhi Capitals,Sunrisers Hyderabad
+22,2,12,2,KL Rahul,B Kumar,4,4,,Mumbai Indians,Punjab Kings
+22,2,10,6,B Stokes,B Kumar,6,3,,Sunrisers Hyderabad,Rajasthan Royals
+22,2,3,6,AB de Villiers,R Ashwin,3,2,,Kolkata Knight Riders,Sunrisers Hyderabad
+22,2,12,1,MS Dhoni,JJ Bumrah,4,3,,Chennai Super Kings,Rajasthan Royals
+23,1,1,5,KL Rahul,JJ Bumrah,3,1,,Sunrisers Hyderabad,Mumbai Indians
+23,1,18,5,V Kohli,B Kumar,4,1,caught,Mumbai Indians,Mumbai Indians
+23,1,3,4,B Stokes,R Ashwin,1,3,bowled,Delhi Capitals,Royal Challengers Bangalore
+23,2,11,6,KL Rahul,B Kumar,3,1,,Mumbai Indians,Chennai Super Kings
+23,2,18,5,R Sharma,JJ Bumrah,1,5,,Royal Challengers Bangalore,Rajasthan Royals
+23,1,20,6,MS Dhoni,R Ashwin,4,2,,Chennai Super Kings,Royal Challengers Bangalore
+23,2,14,4,V Kohli,Y Chahal,1,0,,Kolkata Knight Riders,Delhi Capitals
+23,1,4,6,MS Dhoni,JJ Bumrah,5,5,,Royal Challengers Bangalore,Royal Challengers Bangalore
+23,1,6,1,AB de Villiers,B Kumar,1,4,,Mumbai Indians,Punjab Kings
+23,2,13,4,KL Rahul,Y Chahal,3,4,caught,Sunrisers Hyderabad,Chennai Super Kings
+24,1,6,5,R Sharma,JJ Bumrah,1,3,,Punjab Kings,Royal Challengers Bangalore
+24,1,19,2,V Kohli,B Kumar,1,5,lbw,Kolkata Knight Riders,Punjab Kings
+24,2,15,1,R Sharma,B Kumar,2,4,,Delhi Capitals,Delhi Capitals
+24,1,7,4,MS Dhoni,Y Chahal,3,6,,Kolkata Knight Riders,Punjab Kings
+24,2,20,5,KL Rahul,Y Chahal,3,5,,Punjab Kings,Kolkata Knight Riders
+24,2,3,3,KL Rahul,JJ Bumrah,5,6,,Delhi Capitals,Kolkata Knight Riders
+24,2,2,6,R Sharma,B Kumar,5,5,,Chennai Super Kings,Punjab Kings
+24,2,7,5,MS Dhoni,B Kumar,4,1,,Kolkata Knight Riders,Kolkata Knight Riders
+24,2,5,5,KL Rahul,B Kumar,2,0,,Punjab Kings,Kolkata Knight Riders
+24,2,4,2,KL Rahul,Y Chahal,3,1,,Mumbai Indians,Kolkata Knight Riders
+25,2,6,2,AB de Villiers,JJ Bumrah,4,0,lbw,Mumbai Indians,Rajasthan Royals
+25,1,9,1,V Kohli,Y Chahal,4,0,bowled,Chennai Super Kings,Rajasthan Royals
+25,2,8,5,KL Rahul,R Ashwin,6,1,,Delhi Capitals,Rajasthan Royals
+25,1,15,1,KL Rahul,R Ashwin,4,2,,Sunrisers Hyderabad,Mumbai Indians
+25,1,5,5,MS Dhoni,R Ashwin,2,0,,Rajasthan Royals,Royal Challengers Bangalore
+25,2,17,5,KL Rahul,B Kumar,1,6,,Royal Challengers Bangalore,Sunrisers Hyderabad
+25,1,19,3,KL Rahul,R Ashwin,2,1,,Delhi Capitals,Delhi Capitals
+25,2,8,2,B Stokes,R Ashwin,3,0,,Rajasthan Royals,Rajasthan Royals
+25,1,9,2,V Kohli,R Ashwin,0,3,,Delhi Capitals,Mumbai Indians
+25,1,18,2,AB de Villiers,Y Chahal,3,2,lbw,Delhi Capitals,Kolkata Knight Riders
+26,1,16,4,V Kohli,R Ashwin,1,6,,Chennai Super Kings,Punjab Kings
+26,1,8,3,B Stokes,Y Chahal,1,0,,Sunrisers Hyderabad,Delhi Capitals
+26,2,12,3,B Stokes,B Kumar,4,2,,Delhi Capitals,Punjab Kings
+26,1,17,4,MS Dhoni,R Ashwin,1,4,,Kolkata Knight Riders,Delhi Capitals
+26,2,14,6,KL Rahul,Y Chahal,2,5,,Mumbai Indians,Delhi Capitals
+26,2,13,2,V Kohli,B Kumar,4,6,,Chennai Super Kings,Punjab Kings
+26,1,19,4,AB de Villiers,JJ Bumrah,2,4,,Rajasthan Royals,Royal Challengers Bangalore
+26,1,19,5,B Stokes,R Ashwin,3,6,bowled,Kolkata Knight Riders,Punjab Kings
+26,2,10,2,MS Dhoni,Y Chahal,4,2,lbw,Rajasthan Royals,Royal Challengers Bangalore
+26,2,10,2,R Sharma,B Kumar,1,4,,Punjab Kings,Royal Challengers Bangalore
+27,1,2,1,AB de Villiers,B Kumar,3,3,,Chennai Super Kings,Chennai Super Kings
+27,2,12,1,B Stokes,JJ Bumrah,0,1,,Sunrisers Hyderabad,Royal Challengers Bangalore
+27,2,19,6,R Sharma,B Kumar,1,3,,Sunrisers Hyderabad,Sunrisers Hyderabad
+27,2,3,2,AB de Villiers,JJ Bumrah,4,5,,Kolkata Knight Riders,Chennai Super Kings
+27,2,14,4,KL Rahul,B Kumar,4,3,,Punjab Kings,Sunrisers Hyderabad
+27,1,14,3,AB de Villiers,Y Chahal,1,6,,Rajasthan Royals,Delhi Capitals
+27,2,2,6,V Kohli,R Ashwin,6,3,bowled,Mumbai Indians,Punjab Kings
+27,2,19,6,AB de Villiers,Y Chahal,5,1,,Punjab Kings,Sunrisers Hyderabad
+27,2,19,5,KL Rahul,JJ Bumrah,6,0,,Chennai Super Kings,Punjab Kings
+27,2,17,3,KL Rahul,R Ashwin,6,2,,Delhi Capitals,Kolkata Knight Riders
+28,1,17,6,KL Rahul,Y Chahal,6,2,,Punjab Kings,Delhi Capitals
+28,2,11,1,V Kohli,Y Chahal,4,0,,Chennai Super Kings,Chennai Super Kings
+28,1,13,3,MS Dhoni,JJ Bumrah,5,5,,Mumbai Indians,Royal Challengers Bangalore
+28,1,19,5,R Sharma,JJ Bumrah,2,5,,Kolkata Knight Riders,Kolkata Knight Riders
+28,2,5,4,MS Dhoni,B Kumar,1,4,,Chennai Super Kings,Sunrisers Hyderabad
+28,2,7,2,R Sharma,B Kumar,0,3,,Delhi Capitals,Delhi Capitals
+28,2,12,4,MS Dhoni,R Ashwin,3,0,lbw,Delhi Capitals,Rajasthan Royals
+28,2,10,6,B Stokes,Y Chahal,6,2,,Delhi Capitals,Rajasthan Royals
+28,2,16,6,V Kohli,B Kumar,4,5,,Kolkata Knight Riders,Sunrisers Hyderabad
+28,2,11,4,V Kohli,JJ Bumrah,2,0,,Chennai Super Kings,Mumbai Indians
+29,1,7,6,V Kohli,Y Chahal,2,3,,Rajasthan Royals,Punjab Kings
+29,1,10,2,KL Rahul,Y Chahal,5,0,,Kolkata Knight Riders,Chennai Super Kings
+29,1,3,2,AB de Villiers,Y Chahal,0,2,,Kolkata Knight Riders,Rajasthan Royals
+29,2,9,1,V Kohli,B Kumar,3,6,,Punjab Kings,Delhi Capitals
+29,1,1,1,AB de Villiers,B Kumar,1,3,,Mumbai Indians,Punjab Kings
+29,2,17,1,V Kohli,JJ Bumrah,5,5,bowled,Chennai Super Kings,Kolkata Knight Riders
+29,1,2,6,MS Dhoni,JJ Bumrah,1,1,bowled,Royal Challengers Bangalore,Kolkata Knight Riders
+29,1,12,6,KL Rahul,R Ashwin,1,2,,Punjab Kings,Mumbai Indians
+29,2,7,5,KL Rahul,JJ Bumrah,6,3,,Delhi Capitals,Punjab Kings
+29,2,8,5,B Stokes,Y Chahal,3,5,,Mumbai Indians,Rajasthan Royals
+30,2,17,2,MS Dhoni,Y Chahal,5,2,caught,Mumbai Indians,Chennai Super Kings
+30,2,3,6,KL Rahul,R Ashwin,0,2,,Royal Challengers Bangalore,Kolkata Knight Riders
+30,1,11,4,V Kohli,Y Chahal,3,3,,Kolkata Knight Riders,Kolkata Knight Riders
+30,2,9,6,V Kohli,JJ Bumrah,3,3,,Chennai Super Kings,Punjab Kings
+30,2,3,5,R Sharma,R Ashwin,1,2,lbw,Mumbai Indians,Sunrisers Hyderabad
+30,1,8,5,KL Rahul,Y Chahal,2,4,,Delhi Capitals,Delhi Capitals
+30,2,19,1,KL Rahul,R Ashwin,5,6,lbw,Punjab Kings,Kolkata Knight Riders
+30,1,13,2,KL Rahul,Y Chahal,5,1,,Punjab Kings,Rajasthan Royals
+30,1,5,1,R Sharma,B Kumar,3,0,bowled,Chennai Super Kings,Delhi Capitals
+30,2,5,3,AB de Villiers,Y Chahal,4,0,bowled,Chennai Super Kings,Delhi Capitals
+31,1,12,1,R Sharma,JJ Bumrah,6,3,,Kolkata Knight Riders,Rajasthan Royals
+31,2,3,4,KL Rahul,JJ Bumrah,1,4,,Chennai Super Kings,Delhi Capitals
+31,1,3,4,V Kohli,B Kumar,2,6,,Royal Challengers Bangalore,Mumbai Indians
+31,1,16,6,MS Dhoni,B Kumar,3,2,bowled,Royal Challengers Bangalore,Royal Challengers Bangalore
+31,1,20,5,V Kohli,JJ Bumrah,2,3,,Delhi Capitals,Mumbai Indians
+31,2,1,3,KL Rahul,JJ Bumrah,0,6,,Punjab Kings,Kolkata Knight Riders
+31,1,14,4,B Stokes,Y Chahal,3,0,,Royal Challengers Bangalore,Sunrisers Hyderabad
+31,1,15,2,R Sharma,B Kumar,5,2,,Royal Challengers Bangalore,Royal Challengers Bangalore
+31,2,14,6,B Stokes,Y Chahal,4,5,,Delhi Capitals,Punjab Kings
+31,2,20,1,MS Dhoni,Y Chahal,5,1,lbw,Delhi Capitals,Rajasthan Royals
+32,1,19,6,R Sharma,R Ashwin,1,2,bowled,Sunrisers Hyderabad,Kolkata Knight Riders
+32,1,14,1,R Sharma,Y Chahal,6,0,,Punjab Kings,Sunrisers Hyderabad
+32,2,6,5,AB de Villiers,Y Chahal,0,5,,Mumbai Indians,Rajasthan Royals
+32,2,14,3,AB de Villiers,R Ashwin,0,2,,Mumbai Indians,Sunrisers Hyderabad
+32,1,4,4,V Kohli,B Kumar,4,5,,Rajasthan Royals,Punjab Kings
+32,1,16,5,B Stokes,B Kumar,5,3,,Rajasthan Royals,Delhi Capitals
+32,2,5,4,AB de Villiers,R Ashwin,3,0,,Mumbai Indians,Kolkata Knight Riders
+32,1,4,3,MS Dhoni,JJ Bumrah,0,4,,Rajasthan Royals,Sunrisers Hyderabad
+32,2,12,6,MS Dhoni,R Ashwin,1,3,,Rajasthan Royals,Kolkata Knight Riders
+32,1,6,4,MS Dhoni,B Kumar,2,3,,Sunrisers Hyderabad,Sunrisers Hyderabad
+33,2,12,5,R Sharma,JJ Bumrah,3,1,,Royal Challengers Bangalore,Punjab Kings
+33,1,1,6,B Stokes,JJ Bumrah,0,1,,Sunrisers Hyderabad,Delhi Capitals
+33,2,8,3,KL Rahul,JJ Bumrah,0,0,,Mumbai Indians,Royal Challengers Bangalore
+33,2,14,3,AB de Villiers,Y Chahal,0,4,,Mumbai Indians,Delhi Capitals
+33,1,8,3,KL Rahul,Y Chahal,0,1,,Kolkata Knight Riders,Mumbai Indians
+33,2,10,3,B Stokes,JJ Bumrah,0,0,bowled,Mumbai Indians,Mumbai Indians
+33,1,19,3,MS Dhoni,R Ashwin,4,2,,Royal Challengers Bangalore,Kolkata Knight Riders
+33,1,14,5,MS Dhoni,Y Chahal,3,2,,Rajasthan Royals,Kolkata Knight Riders
+33,1,13,4,AB de Villiers,Y Chahal,0,4,,Sunrisers Hyderabad,Chennai Super Kings
+33,1,8,1,R Sharma,JJ Bumrah,6,5,,Punjab Kings,Mumbai Indians
+34,1,20,2,V Kohli,JJ Bumrah,3,5,bowled,Sunrisers Hyderabad,Chennai Super Kings
+34,1,19,4,KL Rahul,B Kumar,0,3,,Punjab Kings,Mumbai Indians
+34,1,2,5,MS Dhoni,JJ Bumrah,1,2,,Chennai Super Kings,Delhi Capitals
+34,2,19,6,MS Dhoni,B Kumar,6,3,,Delhi Capitals,Royal Challengers Bangalore
+34,1,2,5,B Stokes,R Ashwin,5,1,,Delhi Capitals,Sunrisers Hyderabad
+34,1,11,1,AB de Villiers,R Ashwin,1,4,,Mumbai Indians,Punjab Kings
+34,1,6,4,AB de Villiers,JJ Bumrah,2,1,,Kolkata Knight Riders,Punjab Kings
+34,1,6,2,B Stokes,Y Chahal,3,1,,Royal Challengers Bangalore,Sunrisers Hyderabad
+34,2,15,1,R Sharma,Y Chahal,1,2,,Sunrisers Hyderabad,Sunrisers Hyderabad
+34,1,7,2,KL Rahul,B Kumar,6,3,,Mumbai Indians,Mumbai Indians
+35,1,20,3,AB de Villiers,JJ Bumrah,3,1,,Royal Challengers Bangalore,Punjab Kings
+35,1,11,1,MS Dhoni,JJ Bumrah,4,1,bowled,Rajasthan Royals,Sunrisers Hyderabad
+35,2,1,4,MS Dhoni,B Kumar,1,4,,Rajasthan Royals,Royal Challengers Bangalore
+35,1,11,5,KL Rahul,JJ Bumrah,2,5,,Rajasthan Royals,Royal Challengers Bangalore
+35,2,19,2,B Stokes,R Ashwin,4,6,,Chennai Super Kings,Kolkata Knight Riders
+35,2,5,2,KL Rahul,B Kumar,2,6,,Chennai Super Kings,Sunrisers Hyderabad
+35,1,17,5,AB de Villiers,R Ashwin,6,5,,Kolkata Knight Riders,Rajasthan Royals
+35,2,4,5,AB de Villiers,B Kumar,0,4,,Delhi Capitals,Kolkata Knight Riders
+35,1,19,3,V Kohli,JJ Bumrah,4,2,,Kolkata Knight Riders,Delhi Capitals
+35,1,12,5,KL Rahul,R Ashwin,6,3,,Sunrisers Hyderabad,Punjab Kings
+36,2,3,5,V Kohli,R Ashwin,3,2,,Royal Challengers Bangalore,Sunrisers Hyderabad
+36,2,8,6,MS Dhoni,Y Chahal,1,2,,Kolkata Knight Riders,Rajasthan Royals
+36,2,5,1,AB de Villiers,Y Chahal,5,2,,Royal Challengers Bangalore,Kolkata Knight Riders
+36,2,11,6,AB de Villiers,R Ashwin,3,5,,Royal Challengers Bangalore,Punjab Kings
+36,2,5,1,KL Rahul,B Kumar,5,1,caught,Mumbai Indians,Royal Challengers Bangalore
+36,1,16,4,KL Rahul,Y Chahal,5,6,,Sunrisers Hyderabad,Delhi Capitals
+36,1,1,6,R Sharma,R Ashwin,0,2,,Royal Challengers Bangalore,Kolkata Knight Riders
+36,2,18,4,R Sharma,R Ashwin,6,6,,Kolkata Knight Riders,Royal Challengers Bangalore
+36,2,9,4,AB de Villiers,B Kumar,0,0,,Rajasthan Royals,Royal Challengers Bangalore
+36,1,6,3,R Sharma,B Kumar,4,6,,Punjab Kings,Punjab Kings
+37,2,18,6,AB de Villiers,JJ Bumrah,2,2,,Chennai Super Kings,Rajasthan Royals
+37,2,16,4,V Kohli,B Kumar,2,5,lbw,Punjab Kings,Royal Challengers Bangalore
+37,1,18,2,MS Dhoni,Y Chahal,6,5,,Mumbai Indians,Sunrisers Hyderabad
+37,1,5,1,AB de Villiers,B Kumar,4,3,,Punjab Kings,Mumbai Indians
+37,2,3,2,MS Dhoni,JJ Bumrah,5,5,,Delhi Capitals,Punjab Kings
+37,2,11,3,R Sharma,JJ Bumrah,3,4,caught,Chennai Super Kings,Kolkata Knight Riders
+37,1,19,3,B Stokes,Y Chahal,1,0,,Chennai Super Kings,Sunrisers Hyderabad
+37,2,6,4,V Kohli,JJ Bumrah,1,4,,Punjab Kings,Sunrisers Hyderabad
+37,2,7,3,B Stokes,Y Chahal,5,6,caught,Kolkata Knight Riders,Punjab Kings
+37,1,7,1,MS Dhoni,B Kumar,5,4,,Royal Challengers Bangalore,Kolkata Knight Riders
+38,1,17,6,V Kohli,JJ Bumrah,3,5,,Rajasthan Royals,Chennai Super Kings
+38,2,18,4,B Stokes,Y Chahal,4,6,,Punjab Kings,Sunrisers Hyderabad
+38,1,8,2,KL Rahul,R Ashwin,6,5,bowled,Rajasthan Royals,Chennai Super Kings
+38,1,11,1,KL Rahul,B Kumar,6,0,,Chennai Super Kings,Kolkata Knight Riders
+38,2,18,6,B Stokes,B Kumar,6,1,,Delhi Capitals,Kolkata Knight Riders
+38,2,11,1,MS Dhoni,R Ashwin,2,0,bowled,Sunrisers Hyderabad,Sunrisers Hyderabad
+38,2,18,3,AB de Villiers,R Ashwin,0,5,,Sunrisers Hyderabad,Royal Challengers Bangalore
+38,1,17,2,V Kohli,B Kumar,0,3,,Rajasthan Royals,Punjab Kings
+38,2,15,5,AB de Villiers,R Ashwin,4,4,lbw,Sunrisers Hyderabad,Royal Challengers Bangalore
+38,1,4,1,B Stokes,B Kumar,4,3,,Sunrisers Hyderabad,Kolkata Knight Riders
+39,2,17,5,B Stokes,Y Chahal,6,3,bowled,Royal Challengers Bangalore,Punjab Kings
+39,2,18,6,R Sharma,Y Chahal,0,3,bowled,Kolkata Knight Riders,Chennai Super Kings
+39,1,13,4,V Kohli,Y Chahal,0,0,bowled,Delhi Capitals,Rajasthan Royals
+39,2,1,4,AB de Villiers,R Ashwin,4,4,,Rajasthan Royals,Rajasthan Royals
+39,1,4,2,R Sharma,Y Chahal,5,3,,Sunrisers Hyderabad,Rajasthan Royals
+39,2,1,4,AB de Villiers,Y Chahal,2,2,,Mumbai Indians,Delhi Capitals
+39,2,10,5,KL Rahul,R Ashwin,4,1,,Kolkata Knight Riders,Delhi Capitals
+39,2,2,6,MS Dhoni,Y Chahal,5,1,,Royal Challengers Bangalore,Punjab Kings
+39,2,17,4,B Stokes,Y Chahal,4,2,bowled,Chennai Super Kings,Sunrisers Hyderabad
+39,2,6,1,KL Rahul,R Ashwin,3,6,,Sunrisers Hyderabad,Chennai Super Kings
+40,2,10,3,B Stokes,B Kumar,1,4,,Rajasthan Royals,Rajasthan Royals
+40,1,1,2,KL Rahul,B Kumar,5,3,,Royal Challengers Bangalore,Kolkata Knight Riders
+40,2,13,4,R Sharma,B Kumar,2,0,,Rajasthan Royals,Rajasthan Royals
+40,1,4,3,AB de Villiers,B Kumar,4,1,,Kolkata Knight Riders,Punjab Kings
+40,2,12,2,KL Rahul,JJ Bumrah,0,6,,Rajasthan Royals,Sunrisers Hyderabad
+40,2,11,4,B Stokes,B Kumar,0,2,,Punjab Kings,Chennai Super Kings
+40,1,10,3,AB de Villiers,R Ashwin,2,4,bowled,Rajasthan Royals,Sunrisers Hyderabad
+40,1,11,3,MS Dhoni,B Kumar,6,3,,Delhi Capitals,Sunrisers Hyderabad
+40,1,15,1,B Stokes,JJ Bumrah,1,0,caught,Sunrisers Hyderabad,Sunrisers Hyderabad
+40,1,11,6,MS Dhoni,JJ Bumrah,5,2,,Rajasthan Royals,Kolkata Knight Riders
+41,2,14,5,B Stokes,JJ Bumrah,5,5,,Delhi Capitals,Chennai Super Kings
+41,2,13,6,R Sharma,JJ Bumrah,5,4,,Kolkata Knight Riders,Royal Challengers Bangalore
+41,2,1,1,R Sharma,B Kumar,1,2,,Sunrisers Hyderabad,Delhi Capitals
+41,1,16,4,R Sharma,Y Chahal,2,1,,Sunrisers Hyderabad,Royal Challengers Bangalore
+41,1,18,3,B Stokes,JJ Bumrah,1,1,,Sunrisers Hyderabad,Royal Challengers Bangalore
+41,1,2,1,R Sharma,R Ashwin,4,1,lbw,Rajasthan Royals,Kolkata Knight Riders
+41,2,8,6,KL Rahul,R Ashwin,5,0,,Mumbai Indians,Royal Challengers Bangalore
+41,2,18,6,AB de Villiers,JJ Bumrah,3,0,bowled,Sunrisers Hyderabad,Kolkata Knight Riders
+41,2,10,3,AB de Villiers,Y Chahal,1,3,,Punjab Kings,Rajasthan Royals
+41,2,5,3,MS Dhoni,B Kumar,2,3,,Chennai Super Kings,Sunrisers Hyderabad
+42,1,2,3,MS Dhoni,Y Chahal,0,4,,Royal Challengers Bangalore,Sunrisers Hyderabad
+42,2,3,3,MS Dhoni,R Ashwin,2,1,,Chennai Super Kings,Kolkata Knight Riders
+42,2,20,5,R Sharma,JJ Bumrah,3,0,,Chennai Super Kings,Chennai Super Kings
+42,1,20,4,V Kohli,R Ashwin,2,0,,Chennai Super Kings,Mumbai Indians
+42,1,2,5,MS Dhoni,B Kumar,3,4,,Rajasthan Royals,Royal Challengers Bangalore
+42,1,3,4,V Kohli,R Ashwin,2,4,,Punjab Kings,Punjab Kings
+42,1,8,5,AB de Villiers,JJ Bumrah,3,6,,Punjab Kings,Chennai Super Kings
+42,2,13,5,MS Dhoni,Y Chahal,2,6,,Delhi Capitals,Mumbai Indians
+42,1,4,2,R Sharma,B Kumar,0,2,,Royal Challengers Bangalore,Rajasthan Royals
+42,1,4,2,AB de Villiers,Y Chahal,1,3,,Mumbai Indians,Mumbai Indians
+43,1,20,5,AB de Villiers,R Ashwin,5,4,,Mumbai Indians,Kolkata Knight Riders
+43,1,6,5,MS Dhoni,JJ Bumrah,6,6,,Kolkata Knight Riders,Sunrisers Hyderabad
+43,1,19,6,KL Rahul,Y Chahal,3,5,,Sunrisers Hyderabad,Punjab Kings
+43,1,5,5,V Kohli,JJ Bumrah,5,5,bowled,Rajasthan Royals,Royal Challengers Bangalore
+43,1,14,1,B Stokes,Y Chahal,2,6,bowled,Punjab Kings,Rajasthan Royals
+43,2,8,1,R Sharma,R Ashwin,6,1,,Royal Challengers Bangalore,Chennai Super Kings
+43,1,9,1,R Sharma,Y Chahal,1,5,,Sunrisers Hyderabad,Rajasthan Royals
+43,2,15,1,R Sharma,B Kumar,4,5,,Punjab Kings,Mumbai Indians
+43,1,4,1,MS Dhoni,R Ashwin,1,6,,Royal Challengers Bangalore,Delhi Capitals
+43,1,15,2,AB de Villiers,JJ Bumrah,0,0,,Mumbai Indians,Kolkata Knight Riders
+44,1,13,6,B Stokes,Y Chahal,3,4,bowled,Punjab Kings,Mumbai Indians
+44,2,16,5,MS Dhoni,B Kumar,2,1,,Rajasthan Royals,Rajasthan Royals
+44,2,4,2,MS Dhoni,R Ashwin,2,3,,Delhi Capitals,Chennai Super Kings
+44,1,14,2,AB de Villiers,R Ashwin,3,2,,Delhi Capitals,Mumbai Indians
+44,1,17,3,AB de Villiers,B Kumar,4,2,,Rajasthan Royals,Kolkata Knight Riders
+44,2,3,3,KL Rahul,Y Chahal,2,2,bowled,Sunrisers Hyderabad,Punjab Kings
+44,2,12,2,B Stokes,R Ashwin,0,4,,Delhi Capitals,Rajasthan Royals
+44,1,3,2,R Sharma,R Ashwin,1,3,,Sunrisers Hyderabad,Mumbai Indians
+44,1,12,6,AB de Villiers,R Ashwin,4,2,,Delhi Capitals,Mumbai Indians
+44,1,14,5,B Stokes,Y Chahal,2,0,,Rajasthan Royals,Mumbai Indians
+45,1,5,3,V Kohli,JJ Bumrah,6,6,caught,Kolkata Knight Riders,Sunrisers Hyderabad
+45,2,7,6,R Sharma,Y Chahal,5,4,,Kolkata Knight Riders,Rajasthan Royals
+45,2,10,1,MS Dhoni,Y Chahal,1,5,,Mumbai Indians,Chennai Super Kings
+45,2,5,4,B Stokes,B Kumar,4,1,,Mumbai Indians,Mumbai Indians
+45,1,17,4,R Sharma,R Ashwin,1,1,,Rajasthan Royals,Chennai Super Kings
+45,2,10,6,B Stokes,JJ Bumrah,2,6,,Kolkata Knight Riders,Punjab Kings
+45,2,20,3,MS Dhoni,JJ Bumrah,3,3,,Royal Challengers Bangalore,Punjab Kings
+45,2,2,6,R Sharma,JJ Bumrah,6,2,,Mumbai Indians,Rajasthan Royals
+45,2,6,1,R Sharma,Y Chahal,2,3,,Sunrisers Hyderabad,Mumbai Indians
+45,1,10,5,R Sharma,JJ Bumrah,2,4,,Delhi Capitals,Sunrisers Hyderabad
+46,2,13,4,MS Dhoni,B Kumar,4,3,caught,Mumbai Indians,Sunrisers Hyderabad
+46,1,1,2,KL Rahul,B Kumar,4,5,,Rajasthan Royals,Delhi Capitals
+46,2,6,1,V Kohli,JJ Bumrah,2,5,,Sunrisers Hyderabad,Royal Challengers Bangalore
+46,1,15,4,AB de Villiers,R Ashwin,0,2,,Rajasthan Royals,Sunrisers Hyderabad
+46,1,11,1,MS Dhoni,JJ Bumrah,1,3,,Punjab Kings,Mumbai Indians
+46,1,15,4,MS Dhoni,B Kumar,5,4,,Chennai Super Kings,Rajasthan Royals
+46,1,18,3,B Stokes,JJ Bumrah,0,2,,Delhi Capitals,Rajasthan Royals
+46,1,10,2,B Stokes,R Ashwin,2,3,caught,Kolkata Knight Riders,Rajasthan Royals
+46,2,3,2,B Stokes,B Kumar,6,2,,Royal Challengers Bangalore,Delhi Capitals
+46,2,17,1,AB de Villiers,JJ Bumrah,2,0,,Sunrisers Hyderabad,Sunrisers Hyderabad
+47,1,5,1,V Kohli,Y Chahal,2,4,,Chennai Super Kings,Royal Challengers Bangalore
+47,1,6,2,KL Rahul,JJ Bumrah,3,2,caught,Sunrisers Hyderabad,Chennai Super Kings
+47,2,11,2,MS Dhoni,B Kumar,3,5,,Kolkata Knight Riders,Royal Challengers Bangalore
+47,2,4,4,MS Dhoni,R Ashwin,2,5,,Mumbai Indians,Mumbai Indians
+47,2,6,5,AB de Villiers,B Kumar,0,1,caught,Chennai Super Kings,Punjab Kings
+47,1,13,4,R Sharma,R Ashwin,3,4,,Sunrisers Hyderabad,Sunrisers Hyderabad
+47,1,10,1,AB de Villiers,B Kumar,6,1,bowled,Mumbai Indians,Kolkata Knight Riders
+47,1,14,5,KL Rahul,JJ Bumrah,1,0,,Punjab Kings,Rajasthan Royals
+47,1,17,5,AB de Villiers,B Kumar,5,2,bowled,Punjab Kings,Delhi Capitals
+47,1,5,2,MS Dhoni,Y Chahal,6,2,,Punjab Kings,Delhi Capitals
+48,1,15,5,AB de Villiers,Y Chahal,5,3,,Punjab Kings,Kolkata Knight Riders
+48,1,8,5,V Kohli,B Kumar,5,3,,Delhi Capitals,Delhi Capitals
+48,1,17,6,R Sharma,Y Chahal,1,2,,Chennai Super Kings,Punjab Kings
+48,2,19,4,V Kohli,B Kumar,1,3,,Punjab Kings,Punjab Kings
+48,1,19,6,B Stokes,Y Chahal,2,4,,Mumbai Indians,Delhi Capitals
+48,1,19,3,V Kohli,Y Chahal,6,1,,Chennai Super Kings,Chennai Super Kings
+48,1,13,6,MS Dhoni,JJ Bumrah,4,6,,Mumbai Indians,Kolkata Knight Riders
+48,2,7,2,MS Dhoni,R Ashwin,4,4,,Royal Challengers Bangalore,Punjab Kings
+48,2,17,5,MS Dhoni,B Kumar,5,0,bowled,Royal Challengers Bangalore,Kolkata Knight Riders
+48,1,15,5,AB de Villiers,R Ashwin,1,3,bowled,Delhi Capitals,Sunrisers Hyderabad
+49,1,1,5,MS Dhoni,JJ Bumrah,0,2,,Delhi Capitals,Mumbai Indians
+49,1,14,5,R Sharma,R Ashwin,1,0,bowled,Royal Challengers Bangalore,Royal Challengers Bangalore
+49,1,14,6,MS Dhoni,Y Chahal,1,2,,Chennai Super Kings,Rajasthan Royals
+49,2,6,4,MS Dhoni,Y Chahal,3,6,,Mumbai Indians,Mumbai Indians
+49,1,18,2,AB de Villiers,B Kumar,5,6,,Kolkata Knight Riders,Royal Challengers Bangalore
+49,2,3,3,R Sharma,JJ Bumrah,5,2,,Sunrisers Hyderabad,Royal Challengers Bangalore
+49,2,20,3,V Kohli,R Ashwin,2,2,,Chennai Super Kings,Delhi Capitals
+49,2,17,1,KL Rahul,R Ashwin,3,1,,Punjab Kings,Rajasthan Royals
+49,1,4,1,V Kohli,JJ Bumrah,4,4,,Rajasthan Royals,Chennai Super Kings
+49,2,17,3,AB de Villiers,R Ashwin,3,4,,Sunrisers Hyderabad,Mumbai Indians
+50,1,6,5,V Kohli,B Kumar,6,6,,Rajasthan Royals,Chennai Super Kings
+50,2,10,5,AB de Villiers,JJ Bumrah,5,1,,Kolkata Knight Riders,Kolkata Knight Riders
+50,1,16,3,MS Dhoni,Y Chahal,4,2,bowled,Delhi Capitals,Sunrisers Hyderabad
+50,2,12,3,MS Dhoni,JJ Bumrah,1,1,,Chennai Super Kings,Punjab Kings
+50,2,17,6,B Stokes,B Kumar,6,2,caught,Delhi Capitals,Kolkata Knight Riders
+50,1,13,4,AB de Villiers,JJ Bumrah,5,4,,Punjab Kings,Delhi Capitals
+50,2,7,5,KL Rahul,Y Chahal,6,6,,Sunrisers Hyderabad,Chennai Super Kings
+50,1,20,4,MS Dhoni,Y Chahal,0,4,,Delhi Capitals,Kolkata Knight Riders
+50,1,3,5,KL Rahul,Y Chahal,5,1,,Mumbai Indians,Rajasthan Royals
+50,2,8,5,AB de Villiers,JJ Bumrah,1,1,,Mumbai Indians,Delhi Capitals
+51,1,6,3,KL Rahul,Y Chahal,2,4,,Rajasthan Royals,Kolkata Knight Riders
+51,2,3,5,R Sharma,R Ashwin,6,6,,Kolkata Knight Riders,Mumbai Indians
+51,1,20,3,R Sharma,B Kumar,2,5,,Punjab Kings,Sunrisers Hyderabad
+51,2,3,6,B Stokes,R Ashwin,5,1,,Sunrisers Hyderabad,Rajasthan Royals
+51,1,15,3,V Kohli,R Ashwin,2,4,bowled,Chennai Super Kings,Royal Challengers Bangalore
+51,1,4,5,AB de Villiers,R Ashwin,2,2,,Kolkata Knight Riders,Royal Challengers Bangalore
+51,1,20,3,R Sharma,JJ Bumrah,1,6,,Punjab Kings,Royal Challengers Bangalore
+51,1,19,5,KL Rahul,JJ Bumrah,3,5,bowled,Sunrisers Hyderabad,Delhi Capitals
+51,1,14,3,R Sharma,B Kumar,1,2,,Chennai Super Kings,Rajasthan Royals
+51,1,11,5,KL Rahul,B Kumar,6,0,,Mumbai Indians,Mumbai Indians
+52,2,10,6,R Sharma,B Kumar,6,3,,Rajasthan Royals,Sunrisers Hyderabad
+52,2,18,1,AB de Villiers,JJ Bumrah,5,1,,Rajasthan Royals,Mumbai Indians
+52,1,11,4,B Stokes,Y Chahal,5,5,,Rajasthan Royals,Chennai Super Kings
+52,2,13,5,V Kohli,B Kumar,0,5,,Delhi Capitals,Chennai Super Kings
+52,1,8,4,R Sharma,JJ Bumrah,3,4,,Delhi Capitals,Mumbai Indians
+52,2,20,4,B Stokes,JJ Bumrah,2,6,,Royal Challengers Bangalore,Punjab Kings
+52,2,16,3,AB de Villiers,R Ashwin,6,0,lbw,Sunrisers Hyderabad,Kolkata Knight Riders
+52,2,17,1,AB de Villiers,JJ Bumrah,5,3,,Kolkata Knight Riders,Punjab Kings
+52,2,17,1,V Kohli,JJ Bumrah,4,2,,Chennai Super Kings,Chennai Super Kings
+52,1,12,2,V Kohli,R Ashwin,3,1,,Chennai Super Kings,Rajasthan Royals
+53,2,15,5,KL Rahul,R Ashwin,4,5,,Rajasthan Royals,Rajasthan Royals
+53,2,8,3,B Stokes,Y Chahal,4,5,,Chennai Super Kings,Punjab Kings
+53,2,17,4,AB de Villiers,B Kumar,3,4,,Sunrisers Hyderabad,Punjab Kings
+53,2,6,6,V Kohli,R Ashwin,6,2,,Rajasthan Royals,Delhi Capitals
+53,1,6,2,B Stokes,Y Chahal,2,3,,Delhi Capitals,Punjab Kings
+53,1,1,2,MS Dhoni,R Ashwin,1,4,,Mumbai Indians,Delhi Capitals
+53,1,16,2,R Sharma,Y Chahal,0,6,,Punjab Kings,Punjab Kings
+53,1,7,5,MS Dhoni,Y Chahal,0,3,,Kolkata Knight Riders,Chennai Super Kings
+53,1,16,1,KL Rahul,Y Chahal,5,2,,Mumbai Indians,Royal Challengers Bangalore
+53,2,18,4,R Sharma,B Kumar,5,4,bowled,Mumbai Indians,Kolkata Knight Riders
+54,2,19,5,MS Dhoni,Y Chahal,1,5,,Sunrisers Hyderabad,Sunrisers Hyderabad
+54,1,8,1,AB de Villiers,Y Chahal,2,5,,Rajasthan Royals,Sunrisers Hyderabad
+54,1,3,4,R Sharma,B Kumar,5,1,caught,Rajasthan Royals,Kolkata Knight Riders
+54,2,8,6,MS Dhoni,JJ Bumrah,5,2,caught,Rajasthan Royals,Royal Challengers Bangalore
+54,2,17,3,AB de Villiers,R Ashwin,4,5,lbw,Punjab Kings,Mumbai Indians
+54,1,20,6,KL Rahul,B Kumar,4,6,,Mumbai Indians,Sunrisers Hyderabad
+54,2,13,1,B Stokes,Y Chahal,0,0,,Mumbai Indians,Rajasthan Royals
+54,2,8,2,R Sharma,B Kumar,6,5,,Royal Challengers Bangalore,Chennai Super Kings
+54,1,13,5,MS Dhoni,Y Chahal,0,4,,Chennai Super Kings,Delhi Capitals
+54,2,17,6,AB de Villiers,Y Chahal,1,4,,Chennai Super Kings,Kolkata Knight Riders
+55,1,16,1,R Sharma,Y Chahal,6,0,,Sunrisers Hyderabad,Punjab Kings
+55,1,20,6,MS Dhoni,B Kumar,3,0,bowled,Mumbai Indians,Sunrisers Hyderabad
+55,1,11,2,MS Dhoni,Y Chahal,6,3,,Delhi Capitals,Mumbai Indians
+55,1,8,3,B Stokes,Y Chahal,0,2,bowled,Delhi Capitals,Royal Challengers Bangalore
+55,1,7,3,MS Dhoni,B Kumar,1,4,bowled,Rajasthan Royals,Punjab Kings
+55,2,6,6,V Kohli,JJ Bumrah,4,4,bowled,Delhi Capitals,Rajasthan Royals
+55,1,17,3,R Sharma,R Ashwin,0,4,lbw,Punjab Kings,Rajasthan Royals
+55,1,7,4,R Sharma,B Kumar,5,2,,Sunrisers Hyderabad,Chennai Super Kings
+55,2,5,3,KL Rahul,Y Chahal,5,1,caught,Sunrisers Hyderabad,Chennai Super Kings
+55,1,20,2,MS Dhoni,B Kumar,3,6,,Royal Challengers Bangalore,Chennai Super Kings
+56,2,3,6,R Sharma,Y Chahal,0,1,,Rajasthan Royals,Mumbai Indians
+56,1,12,2,KL Rahul,JJ Bumrah,3,2,,Rajasthan Royals,Rajasthan Royals
+56,2,14,5,MS Dhoni,R Ashwin,1,2,,Delhi Capitals,Delhi Capitals
+56,2,9,2,KL Rahul,Y Chahal,1,2,caught,Kolkata Knight Riders,Royal Challengers Bangalore
+56,2,16,1,R Sharma,Y Chahal,0,4,,Punjab Kings,Chennai Super Kings
+56,1,18,4,KL Rahul,R Ashwin,3,6,,Rajasthan Royals,Mumbai Indians
+56,2,2,6,R Sharma,JJ Bumrah,4,0,bowled,Sunrisers Hyderabad,Delhi Capitals
+56,1,1,4,B Stokes,B Kumar,6,1,,Sunrisers Hyderabad,Punjab Kings
+56,2,5,6,MS Dhoni,R Ashwin,3,6,,Royal Challengers Bangalore,Chennai Super Kings
+56,1,3,6,R Sharma,Y Chahal,1,1,,Mumbai Indians,Rajasthan Royals
+57,1,11,5,AB de Villiers,JJ Bumrah,4,4,,Rajasthan Royals,Royal Challengers Bangalore
+57,1,6,5,AB de Villiers,B Kumar,2,1,,Sunrisers Hyderabad,Royal Challengers Bangalore
+57,2,11,4,KL Rahul,Y Chahal,6,1,,Rajasthan Royals,Punjab Kings
+57,2,9,2,AB de Villiers,Y Chahal,6,1,,Sunrisers Hyderabad,Mumbai Indians
+57,2,1,6,AB de Villiers,R Ashwin,0,0,,Chennai Super Kings,Delhi Capitals
+57,2,15,1,B Stokes,JJ Bumrah,2,4,,Delhi Capitals,Punjab Kings
+57,1,17,6,V Kohli,B Kumar,0,5,,Delhi Capitals,Kolkata Knight Riders
+57,2,3,6,B Stokes,R Ashwin,4,6,bowled,Royal Challengers Bangalore,Kolkata Knight Riders
+57,1,3,4,B Stokes,B Kumar,5,1,,Mumbai Indians,Chennai Super Kings
+57,2,15,5,V Kohli,Y Chahal,5,5,,Chennai Super Kings,Chennai Super Kings
+58,2,17,1,B Stokes,JJ Bumrah,4,6,,Punjab Kings,Punjab Kings
+58,1,11,4,R Sharma,B Kumar,2,2,,Royal Challengers Bangalore,Rajasthan Royals
+58,2,16,4,AB de Villiers,B Kumar,0,6,,Mumbai Indians,Royal Challengers Bangalore
+58,2,4,5,B Stokes,JJ Bumrah,5,4,,Punjab Kings,Delhi Capitals
+58,2,8,3,KL Rahul,Y Chahal,5,3,,Sunrisers Hyderabad,Rajasthan Royals
+58,1,2,3,B Stokes,Y Chahal,6,2,,Punjab Kings,Kolkata Knight Riders
+58,2,8,4,R Sharma,R Ashwin,1,4,,Royal Challengers Bangalore,Delhi Capitals
+58,2,6,2,V Kohli,B Kumar,4,4,,Chennai Super Kings,Royal Challengers Bangalore
+58,2,13,5,B Stokes,JJ Bumrah,1,4,,Sunrisers Hyderabad,Kolkata Knight Riders
+58,1,6,2,V Kohli,R Ashwin,1,0,,Sunrisers Hyderabad,Delhi Capitals
+59,2,3,2,R Sharma,R Ashwin,0,3,,Mumbai Indians,Mumbai Indians
+59,1,5,6,B Stokes,R Ashwin,5,0,,Rajasthan Royals,Punjab Kings
+59,1,13,3,V Kohli,R Ashwin,0,3,,Delhi Capitals,Mumbai Indians
+59,2,17,3,MS Dhoni,B Kumar,6,1,,Punjab Kings,Kolkata Knight Riders
+59,1,20,6,MS Dhoni,Y Chahal,1,4,,Punjab Kings,Mumbai Indians
+59,2,14,2,MS Dhoni,JJ Bumrah,1,5,,Mumbai Indians,Mumbai Indians
+59,2,3,4,V Kohli,JJ Bumrah,2,2,,Kolkata Knight Riders,Delhi Capitals
+59,1,7,1,B Stokes,Y Chahal,1,3,,Chennai Super Kings,Delhi Capitals
+59,1,11,1,R Sharma,JJ Bumrah,2,4,,Rajasthan Royals,Delhi Capitals
+59,1,12,3,V Kohli,Y Chahal,3,4,,Delhi Capitals,Chennai Super Kings
+60,2,15,6,KL Rahul,Y Chahal,4,5,,Punjab Kings,Kolkata Knight Riders
+60,1,4,5,AB de Villiers,JJ Bumrah,3,3,,Punjab Kings,Sunrisers Hyderabad
+60,1,16,6,V Kohli,R Ashwin,4,3,,Kolkata Knight Riders,Kolkata Knight Riders
+60,1,15,4,B Stokes,Y Chahal,2,4,,Rajasthan Royals,Kolkata Knight Riders
+60,1,20,5,KL Rahul,B Kumar,5,6,,Delhi Capitals,Rajasthan Royals
+60,2,18,5,B Stokes,Y Chahal,5,4,,Chennai Super Kings,Kolkata Knight Riders
+60,1,4,6,KL Rahul,Y Chahal,6,3,,Royal Challengers Bangalore,Royal Challengers Bangalore
+60,2,6,4,MS Dhoni,Y Chahal,0,3,,Kolkata Knight Riders,Sunrisers Hyderabad
+60,1,11,5,B Stokes,JJ Bumrah,3,4,lbw,Kolkata Knight Riders,Chennai Super Kings
+60,1,10,4,R Sharma,JJ Bumrah,5,6,,Mumbai Indians,Kolkata Knight Riders
+61,1,19,5,V Kohli,R Ashwin,3,1,,Sunrisers Hyderabad,Rajasthan Royals
+61,1,16,6,AB de Villiers,R Ashwin,2,0,,Kolkata Knight Riders,Sunrisers Hyderabad
+61,1,15,2,KL Rahul,R Ashwin,0,0,,Rajasthan Royals,Mumbai Indians
+61,1,10,2,V Kohli,Y Chahal,3,3,,Royal Challengers Bangalore,Rajasthan Royals
+61,2,11,3,AB de Villiers,R Ashwin,3,2,,Mumbai Indians,Delhi Capitals
+61,2,17,2,KL Rahul,JJ Bumrah,5,3,,Mumbai Indians,Rajasthan Royals
+61,1,10,4,V Kohli,Y Chahal,0,4,,Delhi Capitals,Chennai Super Kings
+61,1,5,6,AB de Villiers,JJ Bumrah,0,3,,Royal Challengers Bangalore,Mumbai Indians
+61,2,2,2,MS Dhoni,JJ Bumrah,3,0,,Mumbai Indians,Chennai Super Kings
+61,2,2,4,KL Rahul,JJ Bumrah,0,2,,Rajasthan Royals,Delhi Capitals
+62,1,2,1,B Stokes,JJ Bumrah,4,6,bowled,Sunrisers Hyderabad,Sunrisers Hyderabad
+62,1,7,5,V Kohli,JJ Bumrah,5,4,,Delhi Capitals,Chennai Super Kings
+62,2,12,6,B Stokes,Y Chahal,4,3,,Punjab Kings,Rajasthan Royals
+62,1,4,1,MS Dhoni,B Kumar,3,3,caught,Royal Challengers Bangalore,Punjab Kings
+62,2,13,3,R Sharma,B Kumar,3,4,,Delhi Capitals,Punjab Kings
+62,1,14,6,KL Rahul,Y Chahal,0,4,bowled,Kolkata Knight Riders,Punjab Kings
+62,2,15,4,MS Dhoni,B Kumar,5,6,,Kolkata Knight Riders,Kolkata Knight Riders
+62,1,20,3,B Stokes,R Ashwin,2,0,,Royal Challengers Bangalore,Mumbai Indians
+62,2,19,6,B Stokes,JJ Bumrah,6,4,lbw,Royal Challengers Bangalore,Kolkata Knight Riders
+62,1,6,1,B Stokes,JJ Bumrah,4,4,,Mumbai Indians,Rajasthan Royals
+63,1,1,4,KL Rahul,R Ashwin,2,6,lbw,Rajasthan Royals,Royal Challengers Bangalore
+63,1,16,3,KL Rahul,JJ Bumrah,2,0,,Kolkata Knight Riders,Punjab Kings
+63,1,17,2,AB de Villiers,Y Chahal,5,4,,Mumbai Indians,Royal Challengers Bangalore
+63,2,3,5,R Sharma,Y Chahal,3,3,,Mumbai Indians,Punjab Kings
+63,2,19,6,R Sharma,JJ Bumrah,2,4,,Kolkata Knight Riders,Sunrisers Hyderabad
+63,1,20,5,AB de Villiers,JJ Bumrah,2,2,,Rajasthan Royals,Chennai Super Kings
+63,2,16,3,V Kohli,R Ashwin,2,4,,Sunrisers Hyderabad,Rajasthan Royals
+63,1,16,3,KL Rahul,R Ashwin,6,6,,Chennai Super Kings,Chennai Super Kings
+63,1,11,6,V Kohli,R Ashwin,2,5,,Delhi Capitals,Mumbai Indians
+63,2,1,3,R Sharma,Y Chahal,5,6,,Royal Challengers Bangalore,Punjab Kings
+64,1,4,1,KL Rahul,JJ Bumrah,5,5,,Royal Challengers Bangalore,Kolkata Knight Riders
+64,1,14,5,MS Dhoni,B Kumar,0,4,,Mumbai Indians,Sunrisers Hyderabad
+64,2,4,3,MS Dhoni,R Ashwin,5,1,,Delhi Capitals,Mumbai Indians
+64,1,13,2,KL Rahul,R Ashwin,6,0,,Delhi Capitals,Kolkata Knight Riders
+64,1,1,4,B Stokes,JJ Bumrah,2,5,,Royal Challengers Bangalore,Rajasthan Royals
+64,2,20,5,AB de Villiers,R Ashwin,5,0,,Chennai Super Kings,Royal Challengers Bangalore
+64,1,20,2,B Stokes,Y Chahal,6,0,caught,Delhi Capitals,Mumbai Indians
+64,2,17,1,V Kohli,JJ Bumrah,0,6,,Chennai Super Kings,Delhi Capitals
+64,1,20,1,MS Dhoni,Y Chahal,4,3,,Mumbai Indians,Sunrisers Hyderabad
+64,1,4,1,B Stokes,JJ Bumrah,0,4,,Kolkata Knight Riders,Rajasthan Royals
+65,1,4,2,KL Rahul,R Ashwin,2,2,,Mumbai Indians,Chennai Super Kings
+65,2,16,3,R Sharma,R Ashwin,6,3,,Punjab Kings,Rajasthan Royals
+65,2,16,1,KL Rahul,JJ Bumrah,5,5,,Sunrisers Hyderabad,Sunrisers Hyderabad
+65,2,4,2,V Kohli,B Kumar,6,6,,Punjab Kings,Chennai Super Kings
+65,2,13,6,B Stokes,Y Chahal,5,2,,Punjab Kings,Delhi Capitals
+65,1,10,1,V Kohli,B Kumar,3,5,,Punjab Kings,Mumbai Indians
+65,2,12,5,MS Dhoni,R Ashwin,5,4,,Sunrisers Hyderabad,Punjab Kings
+65,1,12,6,V Kohli,R Ashwin,6,2,,Delhi Capitals,Kolkata Knight Riders
+65,2,1,4,R Sharma,R Ashwin,1,2,bowled,Chennai Super Kings,Sunrisers Hyderabad
+65,1,2,5,B Stokes,JJ Bumrah,3,6,,Mumbai Indians,Punjab Kings
+66,1,16,6,KL Rahul,Y Chahal,3,2,,Mumbai Indians,Chennai Super Kings
+66,1,5,5,V Kohli,B Kumar,2,1,,Chennai Super Kings,Punjab Kings
+66,1,15,3,R Sharma,JJ Bumrah,3,4,,Delhi Capitals,Sunrisers Hyderabad
+66,1,6,5,AB de Villiers,R Ashwin,2,6,,Punjab Kings,Sunrisers Hyderabad
+66,1,3,5,AB de Villiers,R Ashwin,0,3,,Kolkata Knight Riders,Mumbai Indians
+66,1,15,6,V Kohli,B Kumar,5,0,,Mumbai Indians,Chennai Super Kings
+66,1,16,6,MS Dhoni,B Kumar,1,3,lbw,Sunrisers Hyderabad,Chennai Super Kings
+66,2,16,6,MS Dhoni,Y Chahal,0,6,lbw,Punjab Kings,Kolkata Knight Riders
+66,1,18,6,AB de Villiers,R Ashwin,5,3,,Sunrisers Hyderabad,Punjab Kings
+66,1,19,3,MS Dhoni,Y Chahal,3,3,,Delhi Capitals,Mumbai Indians
+67,2,16,3,V Kohli,Y Chahal,5,6,,Kolkata Knight Riders,Kolkata Knight Riders
+67,1,20,6,V Kohli,R Ashwin,1,1,,Kolkata Knight Riders,Chennai Super Kings
+67,1,12,5,V Kohli,R Ashwin,0,6,,Royal Challengers Bangalore,Punjab Kings
+67,1,14,6,B Stokes,B Kumar,3,0,,Royal Challengers Bangalore,Punjab Kings
+67,2,19,2,KL Rahul,R Ashwin,3,3,,Mumbai Indians,Royal Challengers Bangalore
+67,2,20,5,B Stokes,B Kumar,4,1,bowled,Punjab Kings,Royal Challengers Bangalore
+67,2,16,6,AB de Villiers,JJ Bumrah,6,3,lbw,Rajasthan Royals,Sunrisers Hyderabad
+67,2,3,4,AB de Villiers,JJ Bumrah,3,6,caught,Kolkata Knight Riders,Chennai Super Kings
+67,2,9,1,B Stokes,R Ashwin,2,6,,Punjab Kings,Rajasthan Royals
+67,2,13,3,V Kohli,R Ashwin,6,0,,Punjab Kings,Punjab Kings
+68,1,13,4,V Kohli,Y Chahal,2,6,,Chennai Super Kings,Punjab Kings
+68,2,16,4,R Sharma,JJ Bumrah,2,0,,Mumbai Indians,Punjab Kings
+68,1,8,5,AB de Villiers,B Kumar,6,3,,Kolkata Knight Riders,Sunrisers Hyderabad
+68,1,9,2,MS Dhoni,JJ Bumrah,1,0,,Mumbai Indians,Kolkata Knight Riders
+68,2,6,5,R Sharma,JJ Bumrah,1,2,,Royal Challengers Bangalore,Mumbai Indians
+68,2,19,2,MS Dhoni,Y Chahal,4,4,,Mumbai Indians,Sunrisers Hyderabad
+68,1,13,1,KL Rahul,JJ Bumrah,2,1,bowled,Chennai Super Kings,Kolkata Knight Riders
+68,1,19,1,B Stokes,R Ashwin,0,0,,Mumbai Indians,Chennai Super Kings
+68,2,12,2,V Kohli,B Kumar,4,4,,Chennai Super Kings,Delhi Capitals
+68,2,9,3,V Kohli,JJ Bumrah,5,0,,Sunrisers Hyderabad,Rajasthan Royals
+69,2,9,4,MS Dhoni,B Kumar,0,1,caught,Rajasthan Royals,Punjab Kings
+69,1,20,5,AB de Villiers,Y Chahal,6,1,bowled,Kolkata Knight Riders,Kolkata Knight Riders
+69,2,10,5,V Kohli,B Kumar,6,0,bowled,Rajasthan Royals,Punjab Kings
+69,2,9,6,AB de Villiers,R Ashwin,2,4,,Kolkata Knight Riders,Sunrisers Hyderabad
+69,2,13,4,AB de Villiers,JJ Bumrah,3,0,,Chennai Super Kings,Delhi Capitals
+69,2,7,5,AB de Villiers,JJ Bumrah,1,2,bowled,Punjab Kings,Mumbai Indians
+69,1,18,4,KL Rahul,R Ashwin,0,4,,Kolkata Knight Riders,Chennai Super Kings
+69,1,10,6,R Sharma,JJ Bumrah,2,1,,Sunrisers Hyderabad,Rajasthan Royals
+69,1,19,6,R Sharma,Y Chahal,2,5,,Rajasthan Royals,Rajasthan Royals
+69,2,9,4,MS Dhoni,Y Chahal,6,2,bowled,Mumbai Indians,Royal Challengers Bangalore
+70,2,4,6,R Sharma,B Kumar,0,6,,Royal Challengers Bangalore,Rajasthan Royals
+70,2,16,4,R Sharma,JJ Bumrah,0,6,caught,Punjab Kings,Royal Challengers Bangalore
+70,2,2,4,MS Dhoni,JJ Bumrah,1,6,bowled,Delhi Capitals,Mumbai Indians
+70,1,17,6,R Sharma,JJ Bumrah,6,2,,Sunrisers Hyderabad,Royal Challengers Bangalore
+70,1,6,5,B Stokes,R Ashwin,1,4,,Punjab Kings,Delhi Capitals
+70,1,8,3,KL Rahul,Y Chahal,5,2,bowled,Kolkata Knight Riders,Mumbai Indians
+70,1,8,6,KL Rahul,R Ashwin,2,2,,Rajasthan Royals,Punjab Kings
+70,1,1,3,B Stokes,R Ashwin,3,6,,Royal Challengers Bangalore,Chennai Super Kings
+70,1,1,2,KL Rahul,B Kumar,0,2,,Royal Challengers Bangalore,Rajasthan Royals
+70,1,16,3,KL Rahul,R Ashwin,5,2,bowled,Punjab Kings,Rajasthan Royals
+71,1,17,4,KL Rahul,R Ashwin,1,1,,Chennai Super Kings,Punjab Kings
+71,1,6,3,V Kohli,Y Chahal,6,6,,Punjab Kings,Kolkata Knight Riders
+71,1,2,5,B Stokes,Y Chahal,0,4,lbw,Delhi Capitals,Punjab Kings
+71,2,14,1,AB de Villiers,JJ Bumrah,1,5,,Punjab Kings,Punjab Kings
+71,2,6,6,R Sharma,JJ Bumrah,1,0,,Mumbai Indians,Rajasthan Royals
+71,2,20,5,AB de Villiers,B Kumar,5,2,bowled,Chennai Super Kings,Chennai Super Kings
+71,2,17,3,MS Dhoni,Y Chahal,1,6,,Kolkata Knight Riders,Punjab Kings
+71,2,6,1,MS Dhoni,B Kumar,4,3,,Royal Challengers Bangalore,Mumbai Indians
+71,1,8,1,AB de Villiers,JJ Bumrah,0,1,,Sunrisers Hyderabad,Delhi Capitals
+71,2,2,5,B Stokes,R Ashwin,5,0,,Mumbai Indians,Punjab Kings
+72,1,1,4,KL Rahul,B Kumar,1,2,,Rajasthan Royals,Mumbai Indians
+72,2,10,1,KL Rahul,Y Chahal,5,5,,Punjab Kings,Chennai Super Kings
+72,2,17,5,V Kohli,JJ Bumrah,4,0,,Punjab Kings,Kolkata Knight Riders
+72,2,17,2,B Stokes,R Ashwin,5,1,,Sunrisers Hyderabad,Royal Challengers Bangalore
+72,1,18,2,B Stokes,JJ Bumrah,1,0,bowled,Mumbai Indians,Sunrisers Hyderabad
+72,2,11,5,AB de Villiers,JJ Bumrah,5,0,,Sunrisers Hyderabad,Chennai Super Kings
+72,1,19,6,KL Rahul,Y Chahal,2,5,lbw,Delhi Capitals,Mumbai Indians
+72,1,15,3,B Stokes,R Ashwin,0,6,,Delhi Capitals,Delhi Capitals
+72,1,11,4,B Stokes,B Kumar,2,0,,Mumbai Indians,Punjab Kings
+72,2,16,2,V Kohli,B Kumar,5,5,,Punjab Kings,Delhi Capitals
+73,2,3,3,MS Dhoni,Y Chahal,1,2,,Mumbai Indians,Sunrisers Hyderabad
+73,1,6,5,MS Dhoni,R Ashwin,0,2,,Rajasthan Royals,Sunrisers Hyderabad
+73,1,8,2,KL Rahul,B Kumar,3,1,,Mumbai Indians,Mumbai Indians
+73,1,7,4,AB de Villiers,R Ashwin,3,6,bowled,Kolkata Knight Riders,Sunrisers Hyderabad
+73,2,14,3,V Kohli,JJ Bumrah,1,4,,Sunrisers Hyderabad,Delhi Capitals
+73,2,9,4,MS Dhoni,JJ Bumrah,6,4,,Royal Challengers Bangalore,Chennai Super Kings
+73,2,13,1,V Kohli,B Kumar,6,6,lbw,Chennai Super Kings,Mumbai Indians
+73,1,4,5,R Sharma,B Kumar,4,4,,Chennai Super Kings,Mumbai Indians
+73,2,6,6,AB de Villiers,JJ Bumrah,2,6,,Kolkata Knight Riders,Chennai Super Kings
+73,1,9,1,R Sharma,JJ Bumrah,6,1,caught,Mumbai Indians,Mumbai Indians
+74,1,14,4,B Stokes,R Ashwin,1,6,bowled,Delhi Capitals,Sunrisers Hyderabad
+74,1,17,1,V Kohli,R Ashwin,6,6,,Rajasthan Royals,Sunrisers Hyderabad
+74,2,16,1,B Stokes,R Ashwin,3,0,,Royal Challengers Bangalore,Chennai Super Kings
+74,2,2,4,V Kohli,R Ashwin,4,6,,Sunrisers Hyderabad,Delhi Capitals
+74,2,1,3,V Kohli,B Kumar,4,2,,Mumbai Indians,Kolkata Knight Riders
+74,2,8,6,MS Dhoni,B Kumar,4,0,,Mumbai Indians,Sunrisers Hyderabad
+74,2,9,4,MS Dhoni,B Kumar,4,1,lbw,Rajasthan Royals,Chennai Super Kings
+74,1,18,5,V Kohli,B Kumar,0,1,,Sunrisers Hyderabad,Kolkata Knight Riders
+74,1,18,1,MS Dhoni,JJ Bumrah,0,4,,Chennai Super Kings,Royal Challengers Bangalore
+74,2,15,3,KL Rahul,B Kumar,4,6,,Sunrisers Hyderabad,Kolkata Knight Riders
+75,1,19,2,KL Rahul,JJ Bumrah,0,1,,Sunrisers Hyderabad,Mumbai Indians
+75,2,3,2,MS Dhoni,JJ Bumrah,2,0,,Sunrisers Hyderabad,Mumbai Indians
+75,2,3,3,MS Dhoni,R Ashwin,1,2,lbw,Sunrisers Hyderabad,Kolkata Knight Riders
+75,2,7,6,B Stokes,Y Chahal,4,5,,Mumbai Indians,Mumbai Indians
+75,2,16,2,AB de Villiers,R Ashwin,3,5,,Rajasthan Royals,Punjab Kings
+75,1,14,3,V Kohli,JJ Bumrah,5,6,,Mumbai Indians,Kolkata Knight Riders
+75,2,3,4,KL Rahul,B Kumar,1,2,,Sunrisers Hyderabad,Delhi Capitals
+75,1,12,2,KL Rahul,B Kumar,4,5,,Chennai Super Kings,Sunrisers Hyderabad
+75,2,16,4,V Kohli,JJ Bumrah,0,6,,Punjab Kings,Mumbai Indians
+75,2,16,4,V Kohli,Y Chahal,3,2,caught,Punjab Kings,Sunrisers Hyderabad
+76,2,2,4,B Stokes,Y Chahal,2,1,caught,Delhi Capitals,Delhi Capitals
+76,1,4,6,V Kohli,Y Chahal,3,2,,Kolkata Knight Riders,Royal Challengers Bangalore
+76,2,7,3,B Stokes,Y Chahal,2,4,,Rajasthan Royals,Punjab Kings
+76,1,5,3,R Sharma,JJ Bumrah,4,6,,Mumbai Indians,Punjab Kings
+76,1,6,1,V Kohli,B Kumar,4,0,,Rajasthan Royals,Chennai Super Kings
+76,2,3,6,B Stokes,JJ Bumrah,3,5,,Delhi Capitals,Chennai Super Kings
+76,1,10,2,MS Dhoni,B Kumar,2,5,bowled,Mumbai Indians,Sunrisers Hyderabad
+76,1,4,2,AB de Villiers,JJ Bumrah,1,4,,Sunrisers Hyderabad,Chennai Super Kings
+76,1,19,2,KL Rahul,B Kumar,1,1,,Kolkata Knight Riders,Royal Challengers Bangalore
+76,1,12,1,V Kohli,Y Chahal,1,2,,Sunrisers Hyderabad,Chennai Super Kings
+77,1,20,4,AB de Villiers,JJ Bumrah,3,4,,Delhi Capitals,Chennai Super Kings
+77,1,12,2,B Stokes,R Ashwin,3,6,,Mumbai Indians,Chennai Super Kings
+77,2,6,6,AB de Villiers,Y Chahal,5,3,bowled,Delhi Capitals,Chennai Super Kings
+77,2,17,3,V Kohli,JJ Bumrah,2,1,,Kolkata Knight Riders,Rajasthan Royals
+77,2,7,1,R Sharma,JJ Bumrah,3,0,,Sunrisers Hyderabad,Rajasthan Royals
+77,2,10,6,MS Dhoni,Y Chahal,1,1,,Royal Challengers Bangalore,Punjab Kings
+77,2,20,6,AB de Villiers,R Ashwin,6,0,bowled,Chennai Super Kings,Punjab Kings
+77,1,5,2,KL Rahul,R Ashwin,2,1,,Chennai Super Kings,Delhi Capitals
+77,2,8,5,B Stokes,Y Chahal,4,1,,Mumbai Indians,Royal Challengers Bangalore
+77,2,4,1,AB de Villiers,Y Chahal,0,3,bowled,Chennai Super Kings,Kolkata Knight Riders
+78,2,19,2,R Sharma,JJ Bumrah,0,3,caught,Kolkata Knight Riders,Mumbai Indians
+78,2,18,1,AB de Villiers,JJ Bumrah,5,5,,Kolkata Knight Riders,Royal Challengers Bangalore
+78,2,8,3,V Kohli,JJ Bumrah,6,3,caught,Sunrisers Hyderabad,Sunrisers Hyderabad
+78,2,13,5,B Stokes,Y Chahal,1,6,,Chennai Super Kings,Chennai Super Kings
+78,2,12,6,KL Rahul,B Kumar,6,4,,Royal Challengers Bangalore,Chennai Super Kings
+78,2,13,1,AB de Villiers,JJ Bumrah,1,6,,Punjab Kings,Punjab Kings
+78,2,3,4,AB de Villiers,JJ Bumrah,0,3,,Chennai Super Kings,Kolkata Knight Riders
+78,1,16,5,AB de Villiers,B Kumar,2,6,,Punjab Kings,Royal Challengers Bangalore
+78,2,4,5,V Kohli,B Kumar,3,3,,Rajasthan Royals,Rajasthan Royals
+78,1,9,4,AB de Villiers,JJ Bumrah,3,5,,Royal Challengers Bangalore,Kolkata Knight Riders
+79,2,14,2,AB de Villiers,R Ashwin,1,4,,Delhi Capitals,Royal Challengers Bangalore
+79,2,6,4,AB de Villiers,B Kumar,6,0,,Rajasthan Royals,Royal Challengers Bangalore
+79,2,11,1,B Stokes,R Ashwin,4,4,,Royal Challengers Bangalore,Chennai Super Kings
+79,2,4,2,KL Rahul,B Kumar,6,3,,Kolkata Knight Riders,Royal Challengers Bangalore
+79,1,18,3,R Sharma,JJ Bumrah,6,0,,Mumbai Indians,Delhi Capitals
+79,2,9,5,V Kohli,R Ashwin,3,1,caught,Sunrisers Hyderabad,Kolkata Knight Riders
+79,2,10,1,V Kohli,B Kumar,2,2,bowled,Delhi Capitals,Chennai Super Kings
+79,2,7,2,MS Dhoni,JJ Bumrah,5,6,,Mumbai Indians,Royal Challengers Bangalore
+79,1,4,2,MS Dhoni,Y Chahal,6,5,,Punjab Kings,Punjab Kings
+79,2,16,3,R Sharma,JJ Bumrah,6,0,,Rajasthan Royals,Mumbai Indians
+80,1,13,3,KL Rahul,Y Chahal,5,3,,Royal Challengers Bangalore,Delhi Capitals
+80,1,18,1,V Kohli,R Ashwin,3,0,,Kolkata Knight Riders,Rajasthan Royals
+80,2,12,2,B Stokes,B Kumar,3,6,bowled,Rajasthan Royals,Kolkata Knight Riders
+80,1,15,1,V Kohli,B Kumar,4,2,,Chennai Super Kings,Delhi Capitals
+80,2,4,4,KL Rahul,Y Chahal,2,4,,Mumbai Indians,Sunrisers Hyderabad
+80,1,4,3,V Kohli,JJ Bumrah,4,6,lbw,Chennai Super Kings,Mumbai Indians
+80,1,7,5,V Kohli,JJ Bumrah,1,5,,Rajasthan Royals,Royal Challengers Bangalore
+80,1,8,1,KL Rahul,B Kumar,6,5,,Kolkata Knight Riders,Mumbai Indians
+80,1,17,5,V Kohli,B Kumar,5,6,,Rajasthan Royals,Delhi Capitals
+80,1,19,4,V Kohli,B Kumar,4,5,,Delhi Capitals,Kolkata Knight Riders
+81,1,17,4,V Kohli,Y Chahal,1,6,bowled,Mumbai Indians,Punjab Kings
+81,2,16,6,KL Rahul,Y Chahal,5,5,bowled,Kolkata Knight Riders,Rajasthan Royals
+81,1,18,6,MS Dhoni,B Kumar,2,0,lbw,Royal Challengers Bangalore,Chennai Super Kings
+81,1,3,1,R Sharma,B Kumar,6,4,,Punjab Kings,Sunrisers Hyderabad
+81,2,12,5,V Kohli,B Kumar,6,6,,Kolkata Knight Riders,Kolkata Knight Riders
+81,1,9,1,AB de Villiers,JJ Bumrah,2,2,,Delhi Capitals,Punjab Kings
+81,2,10,3,KL Rahul,B Kumar,0,2,,Punjab Kings,Delhi Capitals
+81,2,19,1,AB de Villiers,R Ashwin,1,4,lbw,Punjab Kings,Mumbai Indians
+81,1,4,5,KL Rahul,JJ Bumrah,0,4,,Sunrisers Hyderabad,Rajasthan Royals
+81,1,9,4,R Sharma,Y Chahal,5,4,,Mumbai Indians,Royal Challengers Bangalore
+82,2,18,1,B Stokes,Y Chahal,2,2,,Mumbai Indians,Punjab Kings
+82,2,9,4,KL Rahul,B Kumar,2,5,,Kolkata Knight Riders,Sunrisers Hyderabad
+82,2,1,5,MS Dhoni,B Kumar,0,1,,Royal Challengers Bangalore,Rajasthan Royals
+82,2,7,4,B Stokes,JJ Bumrah,5,2,,Royal Challengers Bangalore,Punjab Kings
+82,1,18,4,B Stokes,R Ashwin,5,1,,Chennai Super Kings,Sunrisers Hyderabad
+82,2,9,3,MS Dhoni,JJ Bumrah,6,2,lbw,Kolkata Knight Riders,Delhi Capitals
+82,2,4,4,MS Dhoni,Y Chahal,3,1,,Delhi Capitals,Punjab Kings
+82,1,16,4,AB de Villiers,JJ Bumrah,6,3,bowled,Mumbai Indians,Mumbai Indians
+82,1,12,2,AB de Villiers,Y Chahal,1,1,,Sunrisers Hyderabad,Punjab Kings
+82,2,2,2,B Stokes,Y Chahal,1,0,,Delhi Capitals,Mumbai Indians
+83,1,19,4,R Sharma,R Ashwin,6,6,,Chennai Super Kings,Delhi Capitals
+83,1,19,6,V Kohli,Y Chahal,6,5,bowled,Kolkata Knight Riders,Chennai Super Kings
+83,2,3,3,B Stokes,JJ Bumrah,1,2,,Sunrisers Hyderabad,Kolkata Knight Riders
+83,2,17,5,V Kohli,Y Chahal,1,6,,Sunrisers Hyderabad,Delhi Capitals
+83,1,5,2,MS Dhoni,R Ashwin,4,2,,Delhi Capitals,Sunrisers Hyderabad
+83,2,3,3,KL Rahul,B Kumar,4,5,,Rajasthan Royals,Sunrisers Hyderabad
+83,1,8,5,KL Rahul,JJ Bumrah,5,4,,Mumbai Indians,Sunrisers Hyderabad
+83,2,17,3,MS Dhoni,B Kumar,1,0,,Chennai Super Kings,Sunrisers Hyderabad
+83,2,11,3,V Kohli,JJ Bumrah,6,2,bowled,Royal Challengers Bangalore,Sunrisers Hyderabad
+83,2,12,5,KL Rahul,R Ashwin,6,4,,Kolkata Knight Riders,Kolkata Knight Riders
+84,2,13,2,MS Dhoni,B Kumar,5,4,,Rajasthan Royals,Kolkata Knight Riders
+84,2,11,6,AB de Villiers,Y Chahal,1,1,,Royal Challengers Bangalore,Rajasthan Royals
+84,1,11,5,AB de Villiers,JJ Bumrah,5,0,,Sunrisers Hyderabad,Mumbai Indians
+84,2,18,1,KL Rahul,R Ashwin,6,0,,Delhi Capitals,Kolkata Knight Riders
+84,1,14,6,B Stokes,JJ Bumrah,5,3,,Sunrisers Hyderabad,Mumbai Indians
+84,1,8,5,MS Dhoni,Y Chahal,0,5,bowled,Kolkata Knight Riders,Punjab Kings
+84,2,6,6,AB de Villiers,B Kumar,5,2,,Chennai Super Kings,Punjab Kings
+84,2,16,4,V Kohli,R Ashwin,0,5,,Chennai Super Kings,Sunrisers Hyderabad
+84,2,13,1,R Sharma,B Kumar,6,3,bowled,Kolkata Knight Riders,Sunrisers Hyderabad
+84,2,13,3,V Kohli,Y Chahal,6,1,bowled,Royal Challengers Bangalore,Delhi Capitals
+85,1,2,5,V Kohli,Y Chahal,6,2,,Kolkata Knight Riders,Delhi Capitals
+85,1,19,4,B Stokes,R Ashwin,4,3,,Delhi Capitals,Chennai Super Kings
+85,1,1,5,B Stokes,JJ Bumrah,1,2,,Punjab Kings,Chennai Super Kings
+85,1,1,3,R Sharma,R Ashwin,3,6,,Royal Challengers Bangalore,Delhi Capitals
+85,2,3,3,V Kohli,JJ Bumrah,5,3,,Chennai Super Kings,Kolkata Knight Riders
+85,1,2,2,KL Rahul,JJ Bumrah,4,6,,Sunrisers Hyderabad,Sunrisers Hyderabad
+85,2,17,6,MS Dhoni,R Ashwin,1,4,,Kolkata Knight Riders,Kolkata Knight Riders
+85,1,6,4,V Kohli,Y Chahal,4,5,,Rajasthan Royals,Mumbai Indians
+85,2,5,3,KL Rahul,R Ashwin,6,4,,Punjab Kings,Royal Challengers Bangalore
+85,1,2,6,R Sharma,JJ Bumrah,1,1,,Delhi Capitals,Delhi Capitals
+86,1,11,1,AB de Villiers,R Ashwin,5,4,,Delhi Capitals,Punjab Kings
+86,1,20,2,B Stokes,R Ashwin,1,0,,Mumbai Indians,Punjab Kings
+86,2,10,5,B Stokes,Y Chahal,3,3,,Kolkata Knight Riders,Delhi Capitals
+86,1,9,5,B Stokes,Y Chahal,5,6,bowled,Mumbai Indians,Mumbai Indians
+86,1,13,2,AB de Villiers,R Ashwin,0,2,bowled,Rajasthan Royals,Punjab Kings
+86,1,5,2,V Kohli,Y Chahal,0,2,,Chennai Super Kings,Mumbai Indians
+86,1,1,2,V Kohli,Y Chahal,0,5,,Delhi Capitals,Kolkata Knight Riders
+86,2,6,5,V Kohli,JJ Bumrah,1,1,bowled,Sunrisers Hyderabad,Delhi Capitals
+86,1,20,4,MS Dhoni,B Kumar,0,2,lbw,Sunrisers Hyderabad,Kolkata Knight Riders
+86,2,9,3,B Stokes,R Ashwin,2,5,,Kolkata Knight Riders,Chennai Super Kings
+87,1,1,2,R Sharma,Y Chahal,3,3,caught,Rajasthan Royals,Royal Challengers Bangalore
+87,1,19,6,MS Dhoni,JJ Bumrah,2,0,,Royal Challengers Bangalore,Sunrisers Hyderabad
+87,1,5,3,AB de Villiers,JJ Bumrah,2,1,lbw,Mumbai Indians,Chennai Super Kings
+87,2,7,3,R Sharma,Y Chahal,6,0,bowled,Kolkata Knight Riders,Rajasthan Royals
+87,1,2,1,KL Rahul,Y Chahal,1,4,caught,Sunrisers Hyderabad,Kolkata Knight Riders
+87,1,3,6,B Stokes,Y Chahal,0,6,,Chennai Super Kings,Royal Challengers Bangalore
+87,1,5,3,B Stokes,Y Chahal,2,4,,Kolkata Knight Riders,Sunrisers Hyderabad
+87,2,4,4,KL Rahul,B Kumar,1,1,,Chennai Super Kings,Delhi Capitals
+87,2,4,4,AB de Villiers,JJ Bumrah,1,4,,Sunrisers Hyderabad,Punjab Kings
+87,1,9,6,MS Dhoni,B Kumar,1,3,,Delhi Capitals,Royal Challengers Bangalore
+88,1,3,2,V Kohli,R Ashwin,2,3,,Mumbai Indians,Royal Challengers Bangalore
+88,1,5,2,KL Rahul,Y Chahal,4,6,,Sunrisers Hyderabad,Royal Challengers Bangalore
+88,1,17,2,V Kohli,Y Chahal,1,2,,Kolkata Knight Riders,Chennai Super Kings
+88,1,17,1,KL Rahul,Y Chahal,1,0,,Kolkata Knight Riders,Kolkata Knight Riders
+88,2,14,1,B Stokes,Y Chahal,1,4,,Sunrisers Hyderabad,Chennai Super Kings
+88,2,17,4,R Sharma,JJ Bumrah,2,2,bowled,Chennai Super Kings,Rajasthan Royals
+88,2,13,2,V Kohli,JJ Bumrah,6,3,bowled,Mumbai Indians,Mumbai Indians
+88,2,13,4,B Stokes,B Kumar,3,3,caught,Sunrisers Hyderabad,Chennai Super Kings
+88,2,5,6,AB de Villiers,R Ashwin,4,0,,Mumbai Indians,Delhi Capitals
+88,1,18,4,AB de Villiers,R Ashwin,1,0,,Mumbai Indians,Chennai Super Kings
+89,2,3,6,KL Rahul,B Kumar,2,4,caught,Royal Challengers Bangalore,Punjab Kings
+89,1,9,2,AB de Villiers,JJ Bumrah,0,3,,Sunrisers Hyderabad,Punjab Kings
+89,2,18,5,B Stokes,B Kumar,1,1,,Rajasthan Royals,Rajasthan Royals
+89,1,2,5,B Stokes,R Ashwin,6,5,,Royal Challengers Bangalore,Kolkata Knight Riders
+89,1,6,3,KL Rahul,JJ Bumrah,0,1,bowled,Sunrisers Hyderabad,Chennai Super Kings
+89,1,7,2,V Kohli,JJ Bumrah,4,3,,Delhi Capitals,Sunrisers Hyderabad
+89,2,18,3,AB de Villiers,Y Chahal,5,1,,Mumbai Indians,Royal Challengers Bangalore
+89,2,8,1,R Sharma,B Kumar,2,6,,Royal Challengers Bangalore,Punjab Kings
+89,1,8,2,R Sharma,JJ Bumrah,2,1,,Punjab Kings,Sunrisers Hyderabad
+89,1,1,3,AB de Villiers,R Ashwin,0,6,lbw,Punjab Kings,Chennai Super Kings
+90,2,12,5,V Kohli,Y Chahal,4,4,,Kolkata Knight Riders,Delhi Capitals
+90,1,13,4,MS Dhoni,R Ashwin,6,0,,Chennai Super Kings,Kolkata Knight Riders
+90,2,16,5,MS Dhoni,JJ Bumrah,0,0,,Mumbai Indians,Delhi Capitals
+90,2,18,6,V Kohli,Y Chahal,1,2,,Sunrisers Hyderabad,Chennai Super Kings
+90,1,6,6,B Stokes,JJ Bumrah,5,1,,Royal Challengers Bangalore,Delhi Capitals
+90,2,19,2,MS Dhoni,B Kumar,4,0,,Punjab Kings,Royal Challengers Bangalore
+90,1,15,4,V Kohli,B Kumar,4,1,,Chennai Super Kings,Royal Challengers Bangalore
+90,2,3,2,R Sharma,JJ Bumrah,6,0,,Chennai Super Kings,Punjab Kings
+90,1,20,4,AB de Villiers,R Ashwin,2,0,,Kolkata Knight Riders,Mumbai Indians
+90,1,18,4,AB de Villiers,B Kumar,1,4,,Rajasthan Royals,Rajasthan Royals
+91,1,4,3,V Kohli,JJ Bumrah,4,2,,Punjab Kings,Sunrisers Hyderabad
+91,1,10,1,R Sharma,Y Chahal,1,0,lbw,Rajasthan Royals,Royal Challengers Bangalore
+91,2,2,6,R Sharma,Y Chahal,1,4,,Delhi Capitals,Rajasthan Royals
+91,1,16,1,AB de Villiers,R Ashwin,5,1,bowled,Delhi Capitals,Punjab Kings
+91,1,1,5,R Sharma,JJ Bumrah,2,5,,Sunrisers Hyderabad,Sunrisers Hyderabad
+91,2,13,1,R Sharma,Y Chahal,1,3,,Punjab Kings,Sunrisers Hyderabad
+91,2,14,6,B Stokes,B Kumar,0,4,lbw,Royal Challengers Bangalore,Royal Challengers Bangalore
+91,1,2,1,B Stokes,JJ Bumrah,4,2,lbw,Punjab Kings,Royal Challengers Bangalore
+91,1,2,1,R Sharma,R Ashwin,1,6,,Chennai Super Kings,Kolkata Knight Riders
+91,2,13,5,AB de Villiers,Y Chahal,6,4,,Chennai Super Kings,Mumbai Indians
+92,2,6,1,MS Dhoni,R Ashwin,0,0,,Kolkata Knight Riders,Royal Challengers Bangalore
+92,2,16,1,MS Dhoni,R Ashwin,2,3,,Chennai Super Kings,Delhi Capitals
+92,1,13,1,B Stokes,R Ashwin,3,4,caught,Kolkata Knight Riders,Rajasthan Royals
+92,2,1,2,KL Rahul,Y Chahal,1,3,,Kolkata Knight Riders,Chennai Super Kings
+92,1,14,6,KL Rahul,B Kumar,1,6,,Kolkata Knight Riders,Sunrisers Hyderabad
+92,1,18,4,MS Dhoni,R Ashwin,4,5,,Chennai Super Kings,Rajasthan Royals
+92,2,17,2,KL Rahul,JJ Bumrah,4,3,,Royal Challengers Bangalore,Rajasthan Royals
+92,2,18,5,AB de Villiers,JJ Bumrah,6,0,,Kolkata Knight Riders,Mumbai Indians
+92,1,11,1,V Kohli,JJ Bumrah,4,3,,Kolkata Knight Riders,Punjab Kings
+92,2,13,2,B Stokes,JJ Bumrah,0,6,,Mumbai Indians,Mumbai Indians
+93,2,17,3,R Sharma,JJ Bumrah,2,4,,Mumbai Indians,Sunrisers Hyderabad
+93,2,10,5,R Sharma,R Ashwin,1,4,,Punjab Kings,Mumbai Indians
+93,2,7,3,V Kohli,Y Chahal,5,3,,Kolkata Knight Riders,Chennai Super Kings
+93,1,4,1,MS Dhoni,JJ Bumrah,2,3,,Mumbai Indians,Sunrisers Hyderabad
+93,1,6,3,KL Rahul,JJ Bumrah,6,0,,Kolkata Knight Riders,Delhi Capitals
+93,1,2,5,V Kohli,B Kumar,5,1,bowled,Delhi Capitals,Punjab Kings
+93,2,10,1,B Stokes,Y Chahal,3,1,,Kolkata Knight Riders,Punjab Kings
+93,2,20,2,B Stokes,JJ Bumrah,4,1,,Royal Challengers Bangalore,Rajasthan Royals
+93,2,20,6,V Kohli,JJ Bumrah,2,5,,Royal Challengers Bangalore,Royal Challengers Bangalore
+93,1,11,1,KL Rahul,JJ Bumrah,6,2,,Punjab Kings,Royal Challengers Bangalore
+94,1,5,5,V Kohli,R Ashwin,1,3,,Punjab Kings,Sunrisers Hyderabad
+94,2,18,6,R Sharma,JJ Bumrah,2,2,,Chennai Super Kings,Royal Challengers Bangalore
+94,2,11,5,V Kohli,R Ashwin,5,1,,Chennai Super Kings,Royal Challengers Bangalore
+94,1,3,3,KL Rahul,Y Chahal,2,4,,Rajasthan Royals,Sunrisers Hyderabad
+94,1,7,1,AB de Villiers,JJ Bumrah,2,6,,Delhi Capitals,Kolkata Knight Riders
+94,2,20,4,V Kohli,R Ashwin,4,4,,Delhi Capitals,Rajasthan Royals
+94,1,19,3,AB de Villiers,B Kumar,1,1,,Royal Challengers Bangalore,Mumbai Indians
+94,2,17,3,V Kohli,JJ Bumrah,5,5,,Sunrisers Hyderabad,Sunrisers Hyderabad
+94,1,2,2,AB de Villiers,B Kumar,6,5,lbw,Sunrisers Hyderabad,Delhi Capitals
+94,1,14,6,R Sharma,Y Chahal,5,2,,Kolkata Knight Riders,Rajasthan Royals
+95,2,6,2,R Sharma,JJ Bumrah,5,0,caught,Sunrisers Hyderabad,Mumbai Indians
+95,1,8,4,AB de Villiers,JJ Bumrah,2,5,,Sunrisers Hyderabad,Kolkata Knight Riders
+95,2,18,6,V Kohli,Y Chahal,1,5,,Rajasthan Royals,Sunrisers Hyderabad
+95,1,4,5,MS Dhoni,B Kumar,1,5,,Punjab Kings,Punjab Kings
+95,2,5,2,KL Rahul,R Ashwin,5,6,,Delhi Capitals,Kolkata Knight Riders
+95,2,6,4,V Kohli,JJ Bumrah,3,0,,Sunrisers Hyderabad,Kolkata Knight Riders
+95,1,12,2,V Kohli,Y Chahal,2,3,,Royal Challengers Bangalore,Punjab Kings
+95,1,7,6,V Kohli,JJ Bumrah,2,1,,Royal Challengers Bangalore,Chennai Super Kings
+95,1,16,5,V Kohli,B Kumar,3,5,,Royal Challengers Bangalore,Punjab Kings
+95,1,15,3,V Kohli,R Ashwin,3,2,,Sunrisers Hyderabad,Kolkata Knight Riders
+96,1,15,6,MS Dhoni,Y Chahal,1,2,bowled,Royal Challengers Bangalore,Kolkata Knight Riders
+96,1,18,3,V Kohli,Y Chahal,5,5,,Rajasthan Royals,Sunrisers Hyderabad
+96,1,2,1,V Kohli,B Kumar,0,1,,Punjab Kings,Rajasthan Royals
+96,1,1,6,KL Rahul,R Ashwin,4,2,,Mumbai Indians,Royal Challengers Bangalore
+96,2,1,6,AB de Villiers,B Kumar,5,0,,Mumbai Indians,Rajasthan Royals
+96,1,3,2,AB de Villiers,JJ Bumrah,3,1,bowled,Sunrisers Hyderabad,Delhi Capitals
+96,1,14,2,B Stokes,JJ Bumrah,2,6,,Mumbai Indians,Delhi Capitals
+96,2,8,6,AB de Villiers,R Ashwin,3,1,,Sunrisers Hyderabad,Punjab Kings
+96,1,1,6,KL Rahul,JJ Bumrah,4,0,,Mumbai Indians,Kolkata Knight Riders
+96,1,5,2,B Stokes,Y Chahal,2,0,,Sunrisers Hyderabad,Mumbai Indians
+97,1,14,2,MS Dhoni,B Kumar,0,2,,Chennai Super Kings,Mumbai Indians
+97,1,17,1,R Sharma,JJ Bumrah,5,3,,Chennai Super Kings,Delhi Capitals
+97,1,8,1,B Stokes,Y Chahal,4,5,,Royal Challengers Bangalore,Kolkata Knight Riders
+97,2,6,3,KL Rahul,Y Chahal,6,5,,Rajasthan Royals,Mumbai Indians
+97,2,7,4,R Sharma,R Ashwin,6,1,,Chennai Super Kings,Rajasthan Royals
+97,1,9,2,AB de Villiers,B Kumar,6,6,,Rajasthan Royals,Sunrisers Hyderabad
+97,1,2,5,AB de Villiers,JJ Bumrah,3,3,,Punjab Kings,Rajasthan Royals
+97,1,1,4,V Kohli,Y Chahal,4,0,,Rajasthan Royals,Rajasthan Royals
+97,2,13,5,AB de Villiers,R Ashwin,4,1,bowled,Kolkata Knight Riders,Kolkata Knight Riders
+97,2,11,1,R Sharma,R Ashwin,6,6,,Rajasthan Royals,Royal Challengers Bangalore
+98,2,13,5,V Kohli,JJ Bumrah,5,0,,Mumbai Indians,Delhi Capitals
+98,1,10,4,B Stokes,JJ Bumrah,2,6,caught,Kolkata Knight Riders,Mumbai Indians
+98,2,18,4,MS Dhoni,Y Chahal,2,5,,Kolkata Knight Riders,Mumbai Indians
+98,2,12,4,KL Rahul,R Ashwin,0,6,,Chennai Super Kings,Rajasthan Royals
+98,2,7,2,B Stokes,JJ Bumrah,3,2,,Chennai Super Kings,Delhi Capitals
+98,2,5,2,MS Dhoni,Y Chahal,5,1,,Punjab Kings,Royal Challengers Bangalore
+98,2,12,5,KL Rahul,JJ Bumrah,2,3,,Mumbai Indians,Chennai Super Kings
+98,1,16,6,B Stokes,JJ Bumrah,2,3,,Punjab Kings,Kolkata Knight Riders
+98,2,2,3,B Stokes,Y Chahal,0,6,,Sunrisers Hyderabad,Chennai Super Kings
+98,2,7,2,MS Dhoni,JJ Bumrah,5,6,caught,Punjab Kings,Delhi Capitals
+99,1,3,3,B Stokes,Y Chahal,1,0,,Sunrisers Hyderabad,Delhi Capitals
+99,1,10,3,KL Rahul,Y Chahal,1,4,,Royal Challengers Bangalore,Delhi Capitals
+99,1,17,4,V Kohli,R Ashwin,5,5,lbw,Delhi Capitals,Punjab Kings
+99,2,4,5,MS Dhoni,Y Chahal,5,3,,Royal Challengers Bangalore,Royal Challengers Bangalore
+99,2,19,3,B Stokes,Y Chahal,1,3,,Punjab Kings,Rajasthan Royals
+99,1,17,4,AB de Villiers,JJ Bumrah,6,5,,Mumbai Indians,Sunrisers Hyderabad
+99,1,5,4,MS Dhoni,R Ashwin,6,1,,Delhi Capitals,Punjab Kings
+99,1,7,2,R Sharma,B Kumar,3,2,bowled,Sunrisers Hyderabad,Sunrisers Hyderabad
+99,1,13,3,V Kohli,B Kumar,6,0,bowled,Punjab Kings,Royal Challengers Bangalore
+99,1,13,2,MS Dhoni,R Ashwin,1,6,,Kolkata Knight Riders,Chennai Super Kings
+100,1,16,5,AB de Villiers,B Kumar,4,3,,Punjab Kings,Delhi Capitals
+100,2,13,5,V Kohli,B Kumar,5,2,caught,Kolkata Knight Riders,Chennai Super Kings
+100,1,7,3,B Stokes,R Ashwin,4,2,,Royal Challengers Bangalore,Sunrisers Hyderabad
+100,2,6,1,MS Dhoni,B Kumar,4,3,,Mumbai Indians,Mumbai Indians
+100,1,1,3,B Stokes,JJ Bumrah,1,3,,Mumbai Indians,Kolkata Knight Riders
+100,1,20,1,KL Rahul,R Ashwin,1,0,,Royal Challengers Bangalore,Mumbai Indians
+100,1,14,5,KL Rahul,B Kumar,1,4,,Kolkata Knight Riders,Mumbai Indians
+100,2,5,4,KL Rahul,JJ Bumrah,3,4,,Kolkata Knight Riders,Punjab Kings
+100,1,7,4,MS Dhoni,JJ Bumrah,3,0,,Rajasthan Royals,Delhi Capitals
+100,2,20,5,KL Rahul,Y Chahal,2,0,,Chennai Super Kings,Punjab Kings
