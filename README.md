@@ -1,10 +1,9 @@
 IPL Data Analysis 
-1. Problem Statement
+1. Problem Statement: 
 To perform data analytics on IPL (Indian Premier League) match and player data in order to extract meaningful insights, trends, and patterns that can help understand team and player performance over the seasons.
-2. Data Collection
-Source: Kaggle IPL datasets (e.g., matches.csv, deliveries.csv)
+2. Data Collection Source: Kaggle IPL datasets (e.g., matches.csv, deliveries.csv)
 Includes match details, teams, scores, toss decisions, venues, player stats, etc.
-3. Data Preprocessing
+3. Data Preprocessing: 
 • Load CSV files using Pandas
 • Handle missing values
 • Convert data types (dates, categorical values)
